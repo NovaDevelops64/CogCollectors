@@ -736,3 +736,350 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.31-18.35.44:940][197]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2019.10.31-18.37.10:521][778]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.10.31-18.37.14:928][ 75]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-18.39.00:836][352]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-18.39.00:870][352]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.39.00:870][352]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-18.39.00:870][352]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 10:39:00 AM)
+[2019.10.31-18.39.00:870][352]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.39.01:120][352]LogPlayLevel: PIE: StaticDuplicateObject took: (0.249786s)
+[2019.10.31-18.39.01:121][352]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-18.39.01:121][352]LogPlayLevel: PIE: World Init took: (0.000853s)
+[2019.10.31-18.39.01:121][352]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.250743s)
+[2019.10.31-18.39.01:161][352]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2019.10.31-18.39.01:172][352]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-18.39.01:251][352]LogInit: FAudioDevice initialized.
+[2019.10.31-18.39.01:259][352]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-18.39.01:276][352]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-14.39.01
+[2019.10.31-18.39.01:276][352]LogWorld: Bringing up level for play took: 0.015963
+[2019.10.31-18.39.01:276][352]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.10.31-18.39.01:278][352]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.272
+[2019.10.31-18.39.01:278][352]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.39.41:768][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.39.41:768][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.39.41:768][745]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.39.41:768][745]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-18.39.41:803][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-18.39.41:803][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.39.41:848][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.39.41:873][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2019.10.31-18.39.41:890][746]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.10.31-18.39.43:078][844]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.31-18.41.15:709][ 89]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.31-18.41.18:244][280]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.41.18:286][280]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2019.10.31-18.41.21:712][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-18.41.21:758][545]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-18.41.21:781][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.41.21:781][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-18.41.21:781][545]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 10:41:21 AM)
+[2019.10.31-18.41.21:781][545]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.41.22:013][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.231708s)
+[2019.10.31-18.41.22:013][545]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-18.41.22:014][545]LogPlayLevel: PIE: World Init took: (0.000936s)
+[2019.10.31-18.41.22:014][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.232756s)
+[2019.10.31-18.41.22:049][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2019.10.31-18.41.22:060][545]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-18.41.22:137][545]LogInit: FAudioDevice initialized.
+[2019.10.31-18.41.22:146][545]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-18.41.22:161][545]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-14.41.22
+[2019.10.31-18.41.22:162][545]LogWorld: Bringing up level for play took: 0.014422
+[2019.10.31-18.41.22:162][545]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.10.31-18.41.22:164][545]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel 0.614
+[2019.10.31-18.41.22:164][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.41.36:611][745]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.41.36:612][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.41.36:612][745]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.41.36:612][745]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-18.41.36:645][745]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-18.41.36:645][745]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.41.36:688][745]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.41.36:713][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2019.10.31-18.41.36:730][746]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.10.31-18.41.38:454][874]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.31-18.44.55:874][289]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-18.44.55:926][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2019.10.31-18.44.57:438][394]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.44.57:479][394]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2019.10.31-18.46.35:191][316]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-18.46.35:245][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2019.10.31-18.47.18:668][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.10.31-18.47.19:858][ 88]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_Auto143E054614182F9A8CDE014B28831A86A.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/2222/TutorialLevel_Auto1.umap'
+[2019.10.31-18.47.19:862][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2222/TutorialLevel' took 1.233
+[2019.10.31-18.47.19:862][ 88]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.233
+[2019.10.31-18.47.19:867][ 88]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.10.31-18.47.19:900][ 88]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.10.31-18.47.19:900][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.10.31-18.47.19:945][ 88]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonCharacter_Auto168AC8AFD490CA9BC7C79F4B1A2BB286C.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2019.10.31-18.47.19:946][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Inventory_UI] ([1] browsable assets)...
+[2019.10.31-18.47.19:946][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Inventory_UI]
+[2019.10.31-18.47.19:946][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Inventory_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-18.47.19:973][ 88]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Inventory_UI_Auto19431DEF34565C365217861962B922113.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto1.uasset'
+[2019.10.31-18.47.19:974][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Item_Data_UI] ([1] browsable assets)...
+[2019.10.31-18.47.19:974][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Item_Data_UI]
+[2019.10.31-18.47.19:974][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Item_Data_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-18.47.19:997][ 88]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Item_Data_UI_Auto1A2D6D1E94741DEC3B9840BA57CC903B0.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto1.uasset'
+[2019.10.31-18.47.19:998][ 88]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode] ([1] browsable assets)...
+[2019.10.31-18.47.19:998][ 88]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode]
+[2019.10.31-18.47.20:020][ 88]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonGameMode_Auto1740C8EB2442F029491BDC7BBCDB800B5.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode_Auto1.uasset'
+[2019.10.31-18.47.20:020][ 88]LogFileHelpers: Auto-saving content packages took 0.154
+[2019.10.31-18.50.33:216][128]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.31-18.51.03:077][659]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.51.03:122][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2019.10.31-18.51.29:356][601]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.51.29:400][601]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.10.31-18.52.52:455][771]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.52.52:500][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.10.31-18.53.56:396][ 36]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-18.53.56:459][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2019.10.31-18.57.34:697][746]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.57.34:744][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.10.31-18.58.37:410][387]LogSlate: Window 'Color Picker' being destroyed
+[2019.10.31-18.58.40:774][415]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.10.31-18.58.42:032][415]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_Auto2BBFA81F5411CCE2B7CD335ADD5BDA104.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/2222/TutorialLevel_Auto2.umap'
+[2019.10.31-18.58.42:035][415]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2222/TutorialLevel' took 1.302
+[2019.10.31-18.58.42:035][415]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.302
+[2019.10.31-18.58.42:040][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.10.31-18.58.42:072][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.10.31-18.58.42:072][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.10.31-18.58.42:118][415]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonCharacter_Auto22FC36AAC443146039F4F7CAD0D124808.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto2.uasset'
+[2019.10.31-18.58.42:123][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Inventory_UI] ([1] browsable assets)...
+[2019.10.31-18.58.42:123][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Inventory_UI]
+[2019.10.31-18.58.42:123][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Inventory_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-18.58.42:154][415]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Inventory_UI_Auto271A75FF1423D1561F75C4E9C20BE45D5.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto2.uasset'
+[2019.10.31-18.58.42:155][415]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Item_Data_UI] ([1] browsable assets)...
+[2019.10.31-18.58.42:155][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Item_Data_UI]
+[2019.10.31-18.58.42:155][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Item_Data_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-18.58.42:186][415]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Item_Data_UI_Auto2753003D44B79A130C44B08B182509969.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto2.uasset'
+[2019.10.31-18.58.42:187][415]LogFileHelpers: Auto-saving content packages took 0.147
+[2019.10.31-18.58.54:377][881]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.58.54:422][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.10.31-18.59.07:822][274]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-18.59.07:877][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.10.31-18.59.14:800][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-18.59.14:870][792]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-18.59.14:892][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.59.14:892][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-18.59.14:893][792]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 10:59:14 AM)
+[2019.10.31-18.59.14:893][792]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.59.15:149][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.256423s)
+[2019.10.31-18.59.15:150][792]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-18.59.15:150][792]LogPlayLevel: PIE: World Init took: (0.000969s)
+[2019.10.31-18.59.15:150][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.257500s)
+[2019.10.31-18.59.15:189][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.31-18.59.15:201][792]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-18.59.15:276][792]LogInit: FAudioDevice initialized.
+[2019.10.31-18.59.15:282][792]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-18.59.15:298][792]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-14.59.15
+[2019.10.31-18.59.15:299][792]LogWorld: Bringing up level for play took: 0.016180
+[2019.10.31-18.59.15:299][792]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.10.31-18.59.15:301][792]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.255
+[2019.10.31-18.59.15:301][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.59.18:534][ 62]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.59.18:534][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.59.18:534][ 62]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-18.59.18:535][ 62]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-18.59.18:566][ 62]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-18.59.18:566][ 62]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-18.59.18:608][ 62]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-18.59.18:639][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.31-18.59.18:657][ 63]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.10.31-18.59.21:167][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-18.59.26:120][631]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-18.59.26:165][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2019.10.31-19.01.07:747][795]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-19.01.07:801][795]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2019.10.31-19.02.24:989][162]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-19.02.25:041][162]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2019.10.31-19.02.46:972][554]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.02.47:006][554]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.02.47:006][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.02.47:006][554]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:02:47 AM)
+[2019.10.31-19.02.47:006][554]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.02.47:240][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233634s)
+[2019.10.31-19.02.47:240][554]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.02.47:241][554]LogPlayLevel: PIE: World Init took: (0.000862s)
+[2019.10.31-19.02.47:241][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.234607s)
+[2019.10.31-19.02.47:279][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2019.10.31-19.02.47:290][554]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.02.47:365][554]LogInit: FAudioDevice initialized.
+[2019.10.31-19.02.47:369][554]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.02.47:385][554]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.02.47
+[2019.10.31-19.02.47:385][554]LogWorld: Bringing up level for play took: 0.015323
+[2019.10.31-19.02.47:386][554]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.10.31-19.02.47:387][554]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.169
+[2019.10.31-19.02.47:388][554]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.02.51:412][900]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.02.57:698][486]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.02.57:699][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.02.57:699][486]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.02.57:699][486]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.02.57:726][486]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.02.57:726][486]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.02.57:770][486]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.02.57:796][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2019.10.31-19.02.57:810][487]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.10.31-19.02.59:024][596]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.02.59:045][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.02.59:046][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.02.59:046][596]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:02:59 AM)
+[2019.10.31-19.02.59:046][596]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.02.59:281][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235036s)
+[2019.10.31-19.02.59:282][596]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.02.59:282][596]LogPlayLevel: PIE: World Init took: (0.000825s)
+[2019.10.31-19.02.59:282][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.235967s)
+[2019.10.31-19.02.59:317][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2019.10.31-19.02.59:328][596]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.02.59:432][596]LogInit: FAudioDevice initialized.
+[2019.10.31-19.02.59:440][596]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.02.59:459][596]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.02.59
+[2019.10.31-19.02.59:459][596]LogWorld: Bringing up level for play took: 0.017994
+[2019.10.31-19.02.59:460][596]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.10.31-19.02.59:461][596]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.095
+[2019.10.31-19.02.59:461][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.03.07:487][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.03.12:716][782]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.03.12:717][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.03.12:717][782]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.03.12:717][782]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.03.12:749][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.03.12:749][782]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.03.12:803][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.03.12:832][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2019.10.31-19.03.12:849][783]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.10.31-19.03.18:730][271]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2019.10.31-19.03.20:671][396]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2019.10.31-19.03.21:815][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.03.27:114][861]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.10.31-19.03.31:675][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.04.38:832][ 18]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-19.04.38:882][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2019.10.31-19.05.08:439][547]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.10.31-19.05.08:735][547]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2019.10.31-19.05.10:573][642]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.05.10:630][646]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.05.10:653][646]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.10:653][646]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.05.10:654][646]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:05:10 AM)
+[2019.10.31-19.05.10:654][646]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.05.10:891][646]LogPlayLevel: PIE: StaticDuplicateObject took: (0.237343s)
+[2019.10.31-19.05.10:892][646]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.05.10:893][646]LogPlayLevel: PIE: World Init took: (0.000950s)
+[2019.10.31-19.05.10:893][646]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.238406s)
+[2019.10.31-19.05.10:931][646]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.10.31-19.05.10:942][646]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.05.11:019][646]LogInit: FAudioDevice initialized.
+[2019.10.31-19.05.11:025][646]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.05.11:042][646]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.05.11
+[2019.10.31-19.05.11:043][646]LogWorld: Bringing up level for play took: 0.016872
+[2019.10.31-19.05.11:043][646]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.10.31-19.05.11:045][646]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.513
+[2019.10.31-19.05.11:045][646]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.12:233][740]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.31-19.05.13:111][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.05.20:795][500]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.20:796][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.05.20:796][500]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.05.20:796][500]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.05.20:830][500]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.05.20:830][500]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.20:876][500]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.05.20:905][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.31-19.05.20:923][501]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.10.31-19.05.22:306][618]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.05.22:328][618]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.22:329][618]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.05.22:329][618]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:05:22 AM)
+[2019.10.31-19.05.22:329][618]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.05.22:562][618]LogPlayLevel: PIE: StaticDuplicateObject took: (0.233617s)
+[2019.10.31-19.05.22:563][618]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.05.22:563][618]LogPlayLevel: PIE: World Init took: (0.000863s)
+[2019.10.31-19.05.22:563][618]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.234586s)
+[2019.10.31-19.05.22:599][618]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.10.31-19.05.22:610][618]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.05.22:707][618]LogInit: FAudioDevice initialized.
+[2019.10.31-19.05.22:712][618]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.05.22:727][618]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.05.22
+[2019.10.31-19.05.22:728][618]LogWorld: Bringing up level for play took: 0.015258
+[2019.10.31-19.05.22:728][618]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.10.31-19.05.22:730][618]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel 1.173
+[2019.10.31-19.05.22:730][618]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.24:777][790]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.31-19.05.26:258][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.05.28:742][139]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.28:743][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.05.28:743][139]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.05.28:743][139]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.05.28:776][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.05.28:777][139]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.05.28:838][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.05.28:864][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2019.10.31-19.05.28:875][140]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.10.31-19.06.02:510][973]BlueprintLog: New page: Compile Inventory_UI
+[2019.10.31-19.06.02:570][973]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.10.31-19.06.04:870][149]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.06.04:894][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.04:894][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.06.04:894][149]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:06:04 AM)
+[2019.10.31-19.06.04:894][149]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.06.05:129][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.235270s)
+[2019.10.31-19.06.05:130][149]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.06.05:130][149]LogPlayLevel: PIE: World Init took: (0.000841s)
+[2019.10.31-19.06.05:130][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.236238s)
+[2019.10.31-19.06.05:169][149]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.10.31-19.06.05:181][149]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.06.05:255][149]LogInit: FAudioDevice initialized.
+[2019.10.31-19.06.05:265][149]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.06.05:280][149]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.06.05
+[2019.10.31-19.06.05:280][149]LogWorld: Bringing up level for play took: 0.014810
+[2019.10.31-19.06.05:280][149]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.10.31-19.06.05:282][149]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel -0.276
+[2019.10.31-19.06.05:282][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.07:682][351]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.31-19.06.08:417][416]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.06.13:296][846]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.06.15:882][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.15:882][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.06.15:882][ 74]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.06.15:883][ 74]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.06.15:914][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.06.15:914][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.15:961][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.06.15:986][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.31-19.06.15:999][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.10.31-19.06.47:172][271]BlueprintLog: New page: Compile Item_Data_UI
+[2019.10.31-19.06.47:217][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2019.10.31-19.06.49:870][476]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.06.49:892][476]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.49:892][476]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.06.49:892][476]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:06:49 AM)
+[2019.10.31-19.06.49:892][476]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.06.50:129][476]LogPlayLevel: PIE: StaticDuplicateObject took: (0.236258s)
+[2019.10.31-19.06.50:130][476]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.06.50:130][476]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2019.10.31-19.06.50:130][476]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.237261s)
+[2019.10.31-19.06.50:169][476]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2019.10.31-19.06.50:180][476]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.06.50:260][476]LogInit: FAudioDevice initialized.
+[2019.10.31-19.06.50:266][476]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.06.50:282][476]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.06.50
+[2019.10.31-19.06.50:283][476]LogWorld: Bringing up level for play took: 0.015763
+[2019.10.31-19.06.50:283][476]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2019.10.31-19.06.50:284][476]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel 0.726
+[2019.10.31-19.06.50:285][476]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.51:723][591]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.31-19.06.52:543][663]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.06.56:148][979]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.56:148][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.06.56:148][979]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.06.56:149][979]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.06.56:187][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.06.56:187][979]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.06.56:236][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.06.56:261][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2019.10.31-19.06.56:273][980]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2019.10.31-19.07.34:050][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.07.34:125][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.31-19.07.34:164][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2019.10.31-19.07.35:367][280]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel3B27099841033786882105BBD0A181BF.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap'
+[2019.10.31-19.07.35:401][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset" SILENT=true
+[2019.10.31-19.07.37:402][280]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_BuiltData2BAD11B9484D9A57E109E083CA164C07.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset'
