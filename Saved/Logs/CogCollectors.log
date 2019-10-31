@@ -1083,3 +1083,79 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.10.31-19.07.35:367][280]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel3B27099841033786882105BBD0A181BF.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap'
 [2019.10.31-19.07.35:401][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset" SILENT=true
 [2019.10.31-19.07.37:402][280]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_BuiltData2BAD11B9484D9A57E109E083CA164C07.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset'
+[2019.10.31-19.09.27:967][961]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.16.13:283][130]LogTemp: Repeating last play command: Selected Viewport
+[2019.10.31-19.16.13:310][130]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.16.13:310][130]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.10.31-19.16.13:310][130]PIE: New page: PIE session: TutorialLevel (Oct 31, 2019, 11:16:13 AM)
+[2019.10.31-19.16.13:310][130]LogPlayLevel: Creating play world package: /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.16.13:559][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.249844s)
+[2019.10.31-19.16.13:560][130]LogAIModule: Creating AISystem for world TutorialLevel
+[2019.10.31-19.16.13:561][130]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2019.10.31-19.16.13:561][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2222/TutorialLevel.TutorialLevel to /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel (0.250961s)
+[2019.10.31-19.16.13:603][130]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2019.10.31-19.16.13:615][130]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.31-19.16.13:723][130]LogInit: FAudioDevice initialized.
+[2019.10.31-19.16.13:730][130]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.10.31-19.16.13:749][130]LogWorld: Bringing World /Game/2222/UEDPIE_0_TutorialLevel.TutorialLevel up for play (max tick rate 0) at 2019.10.31-15.16.13
+[2019.10.31-19.16.13:749][130]LogWorld: Bringing up level for play took: 0.017984
+[2019.10.31-19.16.13:750][130]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2019.10.31-19.16.13:752][130]PIE: Play in editor start time for /Game/2222/UEDPIE_0_TutorialLevel 0.19
+[2019.10.31-19.16.13:752][130]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.16.30:294][594]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(723)]!
+[2019.10.31-19.16.31:110][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.16.32:712][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.16.37:046][186]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.31-19.16.37:768][250]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.16.37:768][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.16.37:768][250]LogWorld: BeginTearingDown for /Game/2222/UEDPIE_0_TutorialLevel
+[2019.10.31-19.16.37:769][250]LogWorld: UWorld::CleanupWorld for TutorialLevel, bSessionEnded=true, bCleanupResources=true
+[2019.10.31-19.16.37:801][250]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.10.31-19.16.37:801][250]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel' has LevelScriptBlueprint '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel' with GeneratedClass '/Game/2222/TutorialLevel.TutorialLevel_C' with ClassGeneratedBy '/Game/2222/TutorialLevel.TutorialLevel:PersistentLevel.TutorialLevel'
+[2019.10.31-19.16.37:846][250]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.31-19.16.37:879][250]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2019.10.31-19.16.37:891][251]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2019.10.31-19.16.38:040][264]Cmd: SELECT NONE
+[2019.10.31-19.16.59:393][ 52]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall7)
+[2019.10.31-19.17.20:607][548]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.17.31:887][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.17.50:555][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.18.04:803][988]Cmd: TRANSACTION UNDO
+[2019.10.31-19.18.04:803][988]LogEditorTransaction: Undo Set Scale
+[2019.10.31-19.18.25:300][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.19.18:368][199]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.31-19.19.18:420][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2019.10.31-19.19.19:633][199]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_Auto3EFE106EB43BD222A6A8B19A71C847121.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/2222/TutorialLevel_Auto3.umap'
+[2019.10.31-19.19.19:640][199]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2222/TutorialLevel' took 1.258
+[2019.10.31-19.19.19:640][199]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.258
+[2019.10.31-19.19.19:646][199]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2019.10.31-19.19.19:682][199]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2019.10.31-19.19.19:682][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2019.10.31-19.19.19:752][199]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonCharacter_Auto37B127E6847CC206CA76801B80AC4BD69.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2019.10.31-19.19.19:753][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Inventory_UI] ([1] browsable assets)...
+[2019.10.31-19.19.19:753][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Inventory_UI]
+[2019.10.31-19.19.19:753][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Inventory_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-19.19.19:782][199]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Inventory_UI_Auto3006A0F384FBEA4FFDF00C68ADE658078.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Inventory_UI_Auto3.uasset'
+[2019.10.31-19.19.19:783][199]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/333/Item_Data_UI] ([1] browsable assets)...
+[2019.10.31-19.19.19:783][199]OBJ SavePackage: Finished generating thumbnails for package [/Game/333/Item_Data_UI]
+[2019.10.31-19.19.19:783][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Item_Data_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.10.31-19.19.19:814][199]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Item_Data_UI_Auto335DD0DF94707ABBBE88A7AB04DF19E3D.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Item_Data_UI_Auto3.uasset'
+[2019.10.31-19.19.19:815][199]LogFileHelpers: Auto-saving content packages took 0.170
+[2019.10.31-19.19.43:403][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.31-19.19.43:509][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.31-19.19.43:546][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2019.10.31-19.19.44:727][ 12]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevelFA29F6574D0CD03053AE23A1969F71FB.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap'
+[2019.10.31-19.19.44:759][ 12]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset" SILENT=true
+[2019.10.31-19.19.46:763][ 12]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_BuiltData12BBE533488FEB6772EB4282B04460CE.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset'
+[2019.10.31-19.19.49:901][244]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Item_Data_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset" SILENT=true
+[2019.10.31-19.19.49:924][244]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Item_Data_UI8BD453634CB7728D7E3A11B77F611E4B.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset'
+[2019.10.31-19.19.52:192][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Inventory_UI" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset" SILENT=true
+[2019.10.31-19.19.52:222][398]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Inventory_UI20E93CA34F1D57A9358E418FEA5F0F63.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset'
+[2019.10.31-19.19.54:906][576]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonCharacter761B720648359E469D789D851F1E7A26.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2019.10.31-19.19.55:880][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/MyChar" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/MyChar.uasset" SILENT=true
+[2019.10.31-19.19.55:903][641]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/MyChar1A72B4FA4D37DB2F12203E849161E481.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/MyChar.uasset'
+[2019.10.31-19.20.07:088][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.10.31-19.20.07:126][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2019.10.31-19.20.08:313][878]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel86764CF54E9F13EBA3E832998809F95C.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel.umap'
+[2019.10.31-19.20.08:341][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/TutorialLevel_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset" SILENT=true
+[2019.10.31-19.20.10:311][878]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/TutorialLevel_BuiltData5A8FC258435CB7F55F8F6F9246A2F16D.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/TutorialLevel_BuiltData.uasset'
