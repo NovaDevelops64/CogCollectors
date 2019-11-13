@@ -1171,3 +1171,1400 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.11.13-17.19.32:827][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
 [2019.11.13-17.19.33:045][958]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonExampleMapB8E712314D8C8F6C45A09F9FC239E042.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
 [2019.11.13-17.19.33:160][958]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonExampleMap_BuiltData207DB0294C0D6185CB03C8A9A260BE97.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2019.11.13-17.21.06:516][ 26]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2019.11.13-17.22.24:856][858]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.13-17.22.35:662][739]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.13-17.22.35:692][739]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.13-17.22.35:692][739]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.13-17.22.35:692][739]PIE: New page: PIE session: ThirdPersonExampleMap (Nov 13, 2019, 7:22:35 AM)
+[2019.11.13-17.22.35:692][739]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.13-17.22.35:703][739]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010918s)
+[2019.11.13-17.22.35:704][739]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.13-17.22.35:704][739]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2019.11.13-17.22.35:704][739]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012104s)
+[2019.11.13-17.22.35:746][739]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2019.11.13-17.22.35:758][739]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.13-17.22.35:832][739]LogInit: FAudioDevice initialized.
+[2019.11.13-17.22.35:841][739]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-17.22.35:844][739]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.11.13-12.22.35
+[2019.11.13-17.22.35:844][739]LogWorld: Bringing up level for play took: 0.001558
+[2019.11.13-17.22.35:844][739]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2019.11.13-17.22.35:846][739]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.014
+[2019.11.13-17.22.35:846][739]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.13-17.22.42:154][384]LogNet: Browse: /Game/333/Cog_Icelvl
+[2019.11.13-17.22.42:154][384]LogLoad: LoadMap: /Game/333/Cog_Icelvl
+[2019.11.13-17.22.42:154][384]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.11.13-17.22.42:155][384]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.22.42:200][384]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2019.11.13-17.22.48:889][384]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.13-17.22.48:889][384]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.13-17.22.48:914][384]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.13-12.22.48
+[2019.11.13-17.22.48:915][384]LogWorld: Bringing up level for play took: 0.024981
+[2019.11.13-17.22.48:917][384]LogLoad: Took 6.762693 seconds to LoadMap(/Game/333/Cog_Icelvl)
+[2019.11.13-17.22.48:947][385]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.096073 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.13-17.23.08:439][932]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.13-17.23.08:440][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-17.23.08:440][932]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.13-17.23.08:440][932]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.23.08:472][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.13-17.23.08:472][932]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.11.13-17.23.08:524][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.13-17.23.08:588][932]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2019.11.13-17.23.08:605][933]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.11.13-17.23.09:936][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.23.20:594][270]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.13-17.23.20:634][270]LogAssetEditorManager: Opening Asset editor for World /Game/333/Cog_Icelvl.Cog_Icelvl
+[2019.11.13-17.23.20:676][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2019.11.13-17.23.35:028][270]LogSlate: Window 'Save Content' being destroyed
+[2019.11.13-17.23.35:063][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/LevelTransfer" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/LevelTransfer.uasset" SILENT=true
+[2019.11.13-17.23.35:095][270]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/LevelTransfer5D21E7264FC54075E5E65E861655AD96.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/LevelTransfer.uasset'
+[2019.11.13-17.23.35:098][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/LoadingScreen" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/LoadingScreen.uasset" SILENT=true
+[2019.11.13-17.23.35:114][270]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/LoadingScreenA78F9E594696C3304CF2599E17AC822B.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/LoadingScreen.uasset'
+[2019.11.13-17.23.35:143][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Teia_Transfer" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Teia_Transfer.uasset" SILENT=true
+[2019.11.13-17.23.35:163][270]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Teia_Transfer1245E4CB4F97029A6EB167A671F2EDF2.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Teia_Transfer.uasset'
+[2019.11.13-17.23.35:209][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.11.13-17.23.35:454][270]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/ThirdPersonExampleMapD3A808DB492FCDB2E3077881DE5B6FC1.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.11.13-17.23.35:480][270]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.314
+[2019.11.13-17.23.35:481][270]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.13-17.23.35:481][270]LightingResults: New page: Lighting Build
+[2019.11.13-17.23.35:481][270]LoadErrors: New page: Loading map: Cog_Icelvl.umap
+[2019.11.13-17.23.35:482][270]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.23.35:482][270]MapCheck: New page: Map Check
+[2019.11.13-17.23.35:482][270]LightingResults: New page: Lighting Build
+[2019.11.13-17.23.35:527][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2019.11.13-17.23.35:571][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2019.11.13-17.23.35:647][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.11.13-17.23.35:706][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2019.11.13-17.23.42:236][270]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.13-17.23.42:340][270]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2019.11.13-17.23.42:363][270]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.13-17.23.42:363][270]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2019.11.13-17.23.42:363][270]LogFileHelpers: Loading map 'Cog_Icelvl' took 6.883
+[2019.11.13-17.23.42:439][270]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.13-17.23.47:290][590]MapCheck: New page: Map Check
+[2019.11.13-17.23.47:327][590]Cmd: MAP REBUILD ALLVISIBLE
+[2019.11.13-17.23.47:327][590]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.11.13-17.23.47:338][590]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=false
+[2019.11.13-17.23.47:403][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2019.11.13-17.23.47:417][590]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-17.23.47:424][590]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-17.23.47:432][590]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.13-17.23.47:432][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.13-17.23.47:432][590]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-17.23.47:439][590]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.13-17.23.48:111][590]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.13-17.23.48:111][590]TextureStreamingBuild: Display: Compiling optional shaders took 0.699 seconds.
+[2019.11.13-17.23.48:121][590]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2019.11.13-17.23.48:134][590]TextureStreamingBuild: Display: Build Texture Streaming took 0.013 seconds.
+[2019.11.13-17.23.48:169][590]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2019.11.13-17.23.48:170][590]LightingResults: New page: Lighting Build - Nov 13, 2019, 7:23:48 AM
+[2019.11.13-17.23.48:521][590]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.11.13-17.23.48:523][590]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.11.13-17.23.48:524][590]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.11.13-17.23.48:524][590]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.11.13-17.23.48:524][590]LogSwarmInterface: [TryOpenConnection] Local Process ID is 5928
+[2019.11.13-17.23.53:154][590]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2019.11.13-17.23.53:160][590]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.11.13-17.23.53:160][590]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.11.13-17.23.53:160][590]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.11.13-17.23.53:160][590]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.11.13-17.23.53:160][590]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.11.13-17.23.53:519][590]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2019.11.13-17.23.53:519][590]MapCheck: New page: Cog_Icelvl - Nov 13, 2019, 7:23:53 AM
+[2019.11.13-17.23.53:519][590]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2019.11.13-17.23.53:519][590]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0.552ms to complete.
+[2019.11.13-17.23.53:521][590]LogEditorBuildUtils: Build time 0:06
+[2019.11.13-17.23.53:651][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ice_Inst1, compiling. 
+[2019.11.13-17.23.53:661][591]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.13-17.23.53:661][591]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ice_Inst1, compiling. 
+[2019.11.13-17.23.53:674][591]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.13-17.23.53:718][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4105, compiling. 
+[2019.11.13-17.23.53:726][592]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_4105, compiling. 
+[2019.11.13-17.23.54:153][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 4
+[2019.11.13-17.23.54:183][611]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.13-17.23.55:981][671]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-17.23.56:018][671]LogSlate: Window 'Message Log' being destroyed
+[2019.11.13-17.24.21:627][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ice1_Inst, compiling. 
+[2019.11.13-17.24.21:635][577]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer M_Ice1_Inst, compiling. 
+[2019.11.13-17.24.21:643][578]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.13-17.24.22:139][579]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.13-17.25.25:995][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.11.13-17.27.31:523][ 16]Job is a success!
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.121s
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:      BrickData 1280x15x5 = 3.4Mb
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:      Bricks at Level
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:          1: 6.6% covering 9.2% of volume
+[2019.11.13-17.27.32:064][ 17]LogVolumetricLightmapImport:          2: 92.3% covering 2.0% of volume
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_6 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_8 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_12 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 256X256)
+[2019.11.13-17.27.39:269][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_22 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_22 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_29 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_29 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_33 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_33 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_34 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_34 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_35 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_35 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_36 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_36 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_37 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_37 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_38 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_38 (DXT1, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_39 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:270][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_39 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_40 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_40 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_41 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_41 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_42 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_42 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_43 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_43 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_44 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_44 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_45 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_45 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_46 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_46 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_47 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_47 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_48 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_48 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_49 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_49 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_50 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_50 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_51 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_51 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_52 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_52 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_53 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_53 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_54 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_54 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_55 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_55 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_56 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_56 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_57 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_57 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_58 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_58 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_59 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_59 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_60 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_60 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_61 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_61 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_62 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_62 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_63 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_63 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_64 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_64 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_65 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_65 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_66 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_66 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_67 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_67 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_68 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_68 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_69 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_69 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_70 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_70 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_71 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_71 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_72 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_72 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_73 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_73 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_74 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_74 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_75 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_75 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_76 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_76 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_77 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_77 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_78 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_78 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_79 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_79 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_80 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_80 (DXT1, 256X256)
+[2019.11.13-17.27.39:271][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_81 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_81 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_82 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_82 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_83 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_83 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_84 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_84 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_85 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_85 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_86 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_86 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_87 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_87 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_88 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_88 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_89 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_89 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_90 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_90 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_91 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_91 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_92 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_92 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_93 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_93 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_94 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_94 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_95 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_95 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_96 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_96 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_97 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_97 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_98 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_98 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_99 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_99 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_100 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_100 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_101 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_101 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_102 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_102 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_103 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_103 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_104 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_104 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_105 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_105 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_106 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_106 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_107 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_107 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_108 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_108 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_109 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_109 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_110 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_110 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_111 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_111 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_112 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_112 (DXT1, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_113 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:272][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_113 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_114 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_114 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_115 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_115 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_116 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_116 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_117 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_117 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_118 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_118 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_119 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_119 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_120 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_120 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_121 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_121 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_122 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_122 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_123 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_123 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_124 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_124 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_125 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_125 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_126 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_126 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_127 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_127 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_128 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_128 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_129 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_129 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_130 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_130 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_131 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_131 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_132 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_132 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_133 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_133 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_134 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_134 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_135 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_135 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_136 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_136 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_137 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_137 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_138 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_138 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_139 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_139 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_140 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_140 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_141 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_141 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_142 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_142 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_143 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_143 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_144 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_144 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_145 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_145 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_146 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_146 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_147 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_147 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_148 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_148 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_149 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_149 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_150 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_150 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_151 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_151 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_152 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_152 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_153 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_153 (DXT1, 256X256)
+[2019.11.13-17.27.39:273][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_154 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_154 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_155 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_155 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_156 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_156 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_157 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_157 (DXT1, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_158 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_158 (DXT1, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_159 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_159 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_160 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_160 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_161 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_161 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_162 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_162 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_163 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_163 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_164 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_164 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_165 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_165 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_166 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_166 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_167 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_167 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_168 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_168 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_169 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_169 (DXT1, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_170 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_170 (DXT1, 128X128)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_171 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_171 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_172 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_172 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_173 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_173 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_174 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_174 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_175 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_175 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_176 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_176 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_177 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_177 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_178 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_178 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_179 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_179 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_180 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_180 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_181 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_181 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_182 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_182 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_183 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_183 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_184 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_184 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_185 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_185 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_186 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_186 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_187 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_187 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_188 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_188 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_189 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_189 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_190 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_190 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_191 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_191 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_192 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_192 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_193 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_193 (DXT1, 256X256)
+[2019.11.13-17.27.39:274][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_194 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_194 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_195 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_195 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_196 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_196 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_197 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_197 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_198 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_198 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_199 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_199 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_200 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_200 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_201 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_201 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_202 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_202 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_203 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_203 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_204 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_204 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_205 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_205 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_206 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_206 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_207 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_207 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_208 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_208 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_209 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_209 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_210 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_210 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_211 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_211 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_212 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_212 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_213 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_213 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_214 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_214 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_215 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_215 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_216 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_216 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_217 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_217 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_218 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_218 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_219 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_219 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_220 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_220 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_221 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_221 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_222 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_222 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_223 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_223 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_224 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_224 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_225 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_225 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_226 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_226 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_227 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_227 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_228 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_228 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_229 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_229 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_230 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_230 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_231 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_231 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_232 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_232 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_233 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_233 (DXT1, 128X128)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_234 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_234 (DXT1, 256X256)
+[2019.11.13-17.27.39:275][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_235 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_235 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_236 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_236 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_237 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_237 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_238 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_238 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_239 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_239 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_240 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_240 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_241 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_241 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_242 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_242 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_243 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_243 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_244 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_244 (DXT1, 128X128)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_245 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_245 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_246 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_246 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_247 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_247 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_248 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_248 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_249 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_249 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_250 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_250 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_251 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_251 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_252 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_252 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_253 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_253 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_254 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_254 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_255 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_255 (DXT1, 128X128)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_256 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_256 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_257 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_257 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_258 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_258 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_259 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_259 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_260 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_260 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_261 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_261 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_262 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_262 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_263 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_263 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_264 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_264 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_265 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_265 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_266 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_266 (DXT1, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_267 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:276][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_267 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_268 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_268 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_269 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_269 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_270 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_270 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_271 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_271 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_272 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_272 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_273 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_273 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_274 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_274 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_275 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_275 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_276 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_276 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_277 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_277 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_278 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_278 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_279 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_279 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_280 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_280 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_281 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_281 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_282 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_282 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_283 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_283 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_284 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_284 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_285 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_285 (DXT1, 256X256)
+[2019.11.13-17.27.39:277][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_286 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_286 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_287 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_287 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_288 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_288 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_289 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_289 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_290 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_290 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_291 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_291 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_292 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_292 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_293 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_293 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_294 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_294 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_295 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_295 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_296 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_296 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_297 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_297 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_298 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_298 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_299 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_299 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_300 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_300 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_301 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_301 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_302 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_302 (DXT1, 128X128)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_303 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_303 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_304 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_304 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_305 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_305 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_306 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_306 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_307 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_307 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_308 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_308 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_309 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_309 (DXT1, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_310 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:278][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_310 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_311 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_311 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_312 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_312 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_313 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_313 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_314 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_314 (DXT1, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_315 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_315 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_316 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_316 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_317 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_317 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_318 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_318 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_319 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_319 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_320 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_320 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_321 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_321 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_322 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_322 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_323 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_323 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_324 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_324 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_325 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_325 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_326 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_326 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_327 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_327 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_328 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_328 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_329 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_329 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_330 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_330 (DXT1, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_331 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_331 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_332 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_332 (DXT1, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_333 (AutoDXT, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_333 (DXT1, 128X128)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_334 (AutoDXT, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_334 (DXT1, 256X256)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: HQ_Lightmap0_335 (AutoDXT, 64X64)
+[2019.11.13-17.27.39:279][ 17]LogTexture: Display: Building textures: LQ_Lightmap_0_335 (DXT1, 64X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 256X128)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 256X64)
+[2019.11.13-17.27.40:273][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_16 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_17 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_18 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_19 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_21 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_20 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_23 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_22 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_25 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_26 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_24 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_51 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_52 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_50 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_55 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_56 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_54 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_57 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_53 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_58 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_59 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_60 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_61 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_63 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_64 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_62 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_65 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_67 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_66 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_68 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_69 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_70 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_71 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_74 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_76 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_75 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_73 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_72 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_77 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_78 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_79 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_80 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_81 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_82 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_83 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_84 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_86 (G8, 256X64)
+[2019.11.13-17.27.40:274][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_88 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_85 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_87 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_89 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_90 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_93 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_92 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_94 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_95 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_91 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_98 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_99 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_97 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_100 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_96 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_102 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_101 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_103 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_105 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_106 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_107 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_104 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_109 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_110 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_108 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_111 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_113 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_114 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_115 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_117 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_118 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_112 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_116 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_120 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_121 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_119 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_122 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_124 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_125 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_123 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_126 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_127 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_128 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_130 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_132 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_133 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_131 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_129 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_135 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_136 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_134 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_137 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_139 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_140 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_138 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_141 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_142 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_144 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_143 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_145 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_148 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_149 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_147 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_146 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_151 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_152 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_150 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_155 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_153 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_156 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_158 (G8, 64X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_159 (G8, 64X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_154 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_160 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_161 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_162 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_163 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_164 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_165 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_157 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_166 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_168 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_169 (G8, 256X64)
+[2019.11.13-17.27.40:275][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_170 (G8, 128X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_167 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_171 (G8, 128X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_172 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_173 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_174 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_177 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_178 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_176 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_175 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_180 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_181 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_182 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_179 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_184 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_185 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_183 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_189 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_188 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_186 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_187 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_190 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_191 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_192 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_193 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_197 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_196 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_194 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_195 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_198 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_199 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_200 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_202 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_203 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_201 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_205 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_204 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_207 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_209 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_206 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_208 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_211 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_212 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_210 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_214 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_213 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_215 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_216 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_217 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_220 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_219 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_218 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_221 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_224 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_223 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_222 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_226 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_227 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_225 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_228 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_229 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_231 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_230 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_233 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_234 (G8, 128X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_235 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_232 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_237 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_236 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_239 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_238 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_241 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_242 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_245 (G8, 128X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_240 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_243 (G8, 256X64)
+[2019.11.13-17.27.40:276][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_247 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_248 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_244 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_249 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_246 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_250 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_251 (G8, 256X64)
+[2019.11.13-17.27.40:277][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_252 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_254 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_255 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_256 (G8, 128X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_258 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_259 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_260 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_253 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_261 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_262 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_257 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_263 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_265 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_264 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_267 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_268 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_269 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_266 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_270 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_272 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_271 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_274 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_273 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_277 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_276 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_275 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_279 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_280 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_278 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_282 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_281 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_283 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_284 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_288 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_286 (G8, 256X64)
+[2019.11.13-17.27.40:340][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_289 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_287 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_285 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_290 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_292 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_291 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_293 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_294 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_295 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_296 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_297 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_300 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_303 (G8, 128X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_298 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_302 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_299 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_301 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_305 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_307 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_306 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_304 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_308 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_310 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_312 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_311 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_313 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_315 (G8, 128X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_314 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_309 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_316 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_319 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_317 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_320 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_321 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_318 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_322 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_324 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_327 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_325 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_323 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_326 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_328 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_331 (G8, 64X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_329 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_333 (G8, 128X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_336 (G8, 32X32)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_334 (G8, 64X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_330 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_332 (G8, 256X64)
+[2019.11.13-17.27.40:342][ 17]LogTexture: Display: Building textures: ShadowMapTexture2D_335 (G8, 256X64)
+[2019.11.13-17.27.40:397][ 17]Lightmass on CAIT-02-115-21: 2:13 min total, 3.21 sec importing, 3.76 sec setup, 41.4 sec photons, 1:25 min processing, 0 ms extra exporting [1027/1027 mappings]. Threads: 7:07 min total, 4:39 min processing.
+[2019.11.13-17.27.40:439][ 17]LogStaticLightingSystem: Cog_Icelvl_BuiltData storing lightmap data for 1027 meshes in 335 LightmapResourceClusters (3.1 Meshes per cluster).
+[2019.11.13-17.27.40:542][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2019.11.13-17.27.40:546][ 17]LogStaticLightingSystem: Illumination: 3:52 min (6.59 sec encoding lightmaps, 1.05 sec encoding shadowmaps)
+[2019.11.13-17.27.40:547][ 17]LogStaticLightingSystem: Lightmap texture memory:  40.6 MB (40.6 MB streaming, 0.0 MB non-streaming), 670 textures
+[2019.11.13-17.27.40:547][ 17]LogStaticLightingSystem: Shadowmap texture memory: 6.8 MB (6.8 MB streaming, 0.0 MB non-streaming), 335 textures
+[2019.11.13-17.27.41:329][ 17]DumpUnbuiltLightIteractions
+[2019.11.13-17.27.41:329][ 17]Lights with unbuilt interactions: 0
+[2019.11.13-17.27.41:329][ 17]
+[2019.11.13-17.27.41:329][ 17]Primitives with unbuilt interactions: 0
+[2019.11.13-17.27.41:707][ 18]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.11.13-17.27.41:707][ 18]MapCheck: New page: Cog_Icelvl - Nov 13, 2019, 7:27:41 AM
+[2019.11.13-17.27.41:708][ 18]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.674ms to complete.
+[2019.11.13-17.33.24:164][389]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.11.13-17.33.24:165][389]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.13-17.33.25:965][389]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl_Auto248CBA6104BF312A87153689EEC848DF2.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto2.umap'
+[2019.11.13-17.33.25:971][389]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/333/Cog_Icelvl' took 1.856
+[2019.11.13-17.33.25:971][389]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.856
+[2019.11.13-17.33.46:638][546]LogSlate: Window 'Choose Location for importing the scene content' being destroyed
+[2019.11.13-17.33.46:667][546]LogFactory: FactoryCreateFile: World with FbxSceneImportFactory (0 0 D:/bridge.obj)
+[2019.11.13-17.33.46:696][546]LogFbx: Loading FBX Scene from D:/bridge.obj
+[2019.11.13-17.33.46:731][546]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.13-17.33.48:124][546]LogSlate: Window 'FBX Scene Import Options' being destroyed
+[2019.11.13-17.33.48:336][546]LogLinker: Failed to load '/Game/2222/Box073Mat': Can't find file.
+[2019.11.13-17.33.48:336][546]LogLinker: Failed to load '/Game/2222/Box073Mat': Can't find file.
+[2019.11.13-17.33.48:346][546]LogMaterial: Display: Missing cached shader map for material Box073Mat, compiling. 
+[2019.11.13-17.33.48:389][546]LogFbx: Display: Triangulating static mesh Box073
+[2019.11.13-17.33.48:584][546]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 22
+[2019.11.13-17.33.48:584][546]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.13-17.33.48:590][546]LogStaticMesh: Building static mesh Box073...
+[2019.11.13-17.33.48:702][546]LogStaticMesh: Built static mesh [0.11s] /Game/2222/Box073.Box073
+[2019.11.13-17.33.48:794][546]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.11.13-17.33.48:796][546]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.48:797][546]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.48:801][546]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.48:802][546]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2222/FbxScene_bridge.FbxScene_bridge
+[2019.11.13-17.33.49:380][546]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.49:435][546]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.49:453][547]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.33.50:305][589]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.13-17.34.02:245][207]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:259][208]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:277][209]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:302][210]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:317][211]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:333][212]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:359][213]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:373][214]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:389][215]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:414][216]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:428][217]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:446][218]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:472][219]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:485][220]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:503][221]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:529][222]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:542][223]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:560][224]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:586][225]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:600][226]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:618][227]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:643][228]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:658][229]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:676][230]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:700][231]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:715][232]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:732][233]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:757][234]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:771][235]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:788][236]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:814][237]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:828][238]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:845][239]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:871][240]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:885][241]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:902][242]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:928][243]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:942][244]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:960][245]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.02:985][246]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:000][247]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:016][248]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:042][249]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:055][250]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:073][251]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:099][252]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:112][253]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:130][254]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:155][255]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:169][256]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:186][257]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:212][258]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:226][259]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:243][260]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:268][261]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:283][262]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:300][263]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:325][264]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:338][265]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:357][266]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:382][267]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:395][268]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:413][269]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:439][270]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:453][271]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:470][272]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:495][273]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:509][274]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:527][275]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:551][276]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:565][277]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:582][278]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:608][279]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:621][280]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:639][281]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:665][282]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:679][283]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:697][284]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:723][285]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:738][286]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:755][287]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:779][288]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:794][289]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:812][290]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:837][291]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:853][292]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:868][293]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:894][294]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:909][295]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:924][296]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:950][297]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:965][298]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.03:981][299]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:005][300]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:020][301]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:036][302]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:062][303]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:077][304]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:093][305]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:118][306]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:133][307]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:149][308]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:174][309]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:187][310]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:206][311]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:231][312]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:244][313]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:262][314]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:286][315]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:300][316]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:318][317]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:343][318]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:357][319]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:375][320]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:400][321]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:415][322]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:432][323]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:457][324]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:470][325]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:488][326]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:513][327]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:528][328]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:547][329]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:571][330]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:586][331]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:602][332]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:627][333]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:641][334]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:659][335]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:683][336]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:699][337]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:716][338]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:741][339]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:756][340]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:772][341]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:798][342]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:813][343]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:829][344]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:854][345]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:870][346]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:886][347]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:911][348]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.04:926][349]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:489][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.13-17.34.06:577][435]BlueprintLog: New page: Compile FbxScene_bridge
+[2019.11.13-17.34.06:581][435]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:585][435]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:585][435]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:586][435]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:825][435]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:892][435]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2019.11.13-17.34.06:896][435]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:897][435]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:897][435]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:898][435]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:900][435]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:901][435]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:901][435]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.06:940][435]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.07:737][475]BlueprintLog: New page: Compile FbxScene_bridge
+[2019.11.13-17.34.07:740][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.07:744][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.07:744][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.07:745][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.07:969][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:018][475]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.11.13-17.34.08:019][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:020][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:021][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_1.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:021][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:024][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:024][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:025][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:026][475]BlueprintLog: New page: Compile FbxScene_bridge
+[2019.11.13-17.34.08:029][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:033][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:033][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:034][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:254][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:301][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.11.13-17.34.08:302][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:303][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:304][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_2.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:304][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:307][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:307][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:308][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:309][475]BlueprintLog: New page: Compile FbxScene_bridge
+[2019.11.13-17.34.08:312][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:315][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:316][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:316][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:535][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:582][475]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2019.11.13-17.34.08:584][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:585][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:585][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_3.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:586][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_4.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_4.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:588][475]PIE: Warning: AttachTo: '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.FbxScene_bridge.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:589][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:589][475]PIE: Warning: AttachTo: '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_4.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_10:PersistentLevel.FbxScene_bridge_C_4.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.08:632][475]PIE: Warning: AttachTo: '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot' is not static  (in blueprint "FbxScene_bridge"), cannot attach '/Engine/Transient.World_9:PersistentLevel.FbxScene_bridge_C_0.DefaultSceneRoot1' which is static to it. Aborting.
+[2019.11.13-17.34.11:367][606]LogSlate: Window 'FbxScene_bridge' being destroyed
+[2019.11.13-17.34.11:394][606]LogSlate: Window 'FbxScene_bridge' being destroyed
+[2019.11.13-17.34.11:579][606]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.34.11:604][606]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.34.11:661][606]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.34.11:709][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.13-17.34.11:709][606]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.34.11:752][606]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.11.13-17.34.11:752][606]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.11.13-17.34.21:016][213]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2222/Bridgeboy" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/Bridgeboy.uasset" SILENT=true
+[2019.11.13-17.34.21:067][213]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Bridgeboy3011E4F54806AB62D9E08598C1B0C3B7.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/2222/Bridgeboy.uasset'
+[2019.11.13-17.34.21:342][213]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2019.11.13-17.34.21:422][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2019.11.13-17.34.21:448][213]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.13-17.34.26:246][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.13-17.34.26:271][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2019.11.13-17.34.27:752][554]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl16F1332D4A774C04F385559627DFF2A7.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap'
+[2019.11.13-17.34.27:790][554]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl_BuiltData.uasset" SILENT=true
+[2019.11.13-17.34.29:280][554]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl_BuiltDataC196B490488D668DE406B2A15DF60D1C.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl_BuiltData.uasset'
