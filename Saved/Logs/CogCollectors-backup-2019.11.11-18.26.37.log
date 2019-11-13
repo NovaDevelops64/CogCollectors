@@ -1,0 +1,1485 @@
+﻿Log file open, 11/11/19 12:39:57
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CogCollectors
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 20 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.117854
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1803) (), CPU: Intel(R) Core(TM) i5-8500 CPU @ 3.00GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Users/130163/Desktop/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:217][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.11-17.39.58:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.11-17.39.58:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.11-17.39.58:221][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.11-17.39.58:221][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.11.11-17.39.58:228][  0]LogHAL: Display: Platform has ~ 16 GB [16994705408 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.11.11-17.39.58:228][  0]LogInit: Going up to parent DeviceProfile []
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Scalability.ini]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.11.11-17.39.58:229][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.11.11-17.39.58:233][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.11.11-17.39.58:233][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.11.11-17.39.58:233][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Config/Windows/Engine.ini]
+[2019.11.11-17.39.58:233][  0]LogInit: Computer: CAIT-02-115-21
+[2019.11.11-17.39.58:233][  0]LogInit: User: 130163
+[2019.11.11-17.39.58:233][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.11.11-17.39.58:233][  0]LogInit: High frequency timer resolution =2.929689 MHz
+[2019.11.11-17.39.58:234][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2019.11.11-17.39.58:234][  0]LogMemory: Platform Memory Stats for Windows
+[2019.11.11-17.39.58:234][  0]LogMemory: Process Physical Memory: 100.32 MB used, 100.32 MB peak
+[2019.11.11-17.39.58:234][  0]LogMemory: Process Virtual Memory: 100.44 MB used, 100.44 MB peak
+[2019.11.11-17.39.58:234][  0]LogMemory: Physical Memory: 4441.29 MB used,  11766.13 MB free, 16207.41 MB total
+[2019.11.11-17.39.58:234][  0]LogMemory: Virtual Memory: 4675.84 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.11.11-17.39.58:236][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.11.11-17.39.58:344][  0]LogInit: Using OS detected language (en-US).
+[2019.11.11-17.39.58:344][  0]LogInit: Using OS detected locale (en-US).
+[2019.11.11-17.39.58:344][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.11.11-17.39.58:523][  0]LogInit: Setting process to per monitor DPI aware
+[2019.11.11-17.39.58:580][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.11.11-17.39.58:580][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.11.11-17.40.00:078][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.11-17.40.00:078][  0]LogD3D11RHI: D3D11 adapters:
+[2019.11.11-17.40.00:094][  0]LogD3D11RHI:    0. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.11.11-17.40.00:094][  0]LogD3D11RHI:       128/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2019.11.11-17.40.00:145][  0]LogD3D11RHI:    1. 'AMD Radeon RX 550' (Feature Level 11_0)
+[2019.11.11-17.40.00:145][  0]LogD3D11RHI:       4042/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1002
+[2019.11.11-17.40.00:147][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.11.11-17.40.00:147][  0]LogD3D11RHI:       0/0/8103 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.11.11-17.40.00:147][  0]LogD3D11RHI: Chosen D3D11 Adapter: 1
+[2019.11.11-17.40.00:153][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.11.11-17.40.00:154][  0]LogD3D11RHI:     GPU DeviceId: 0x699f (for the marketing name, search the web for "GPU Device Id")
+[2019.11.11-17.40.00:154][  0]LogWindows: EnumDisplayDevices:
+[2019.11.11-17.40.00:154][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.11.11-17.40.00:154][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.11-17.40.00:154][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.11.11-17.40.00:154][  0]LogWindows:    3. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:154][  0]LogWindows:    4. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:155][  0]LogWindows:    5. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:155][  0]LogWindows:    6. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:155][  0]LogWindows:    7. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:155][  0]LogWindows:    8. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:156][  0]LogWindows:    9. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:156][  0]LogWindows:    10. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:156][  0]LogWindows:    11. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:156][  0]LogWindows:    12. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:157][  0]LogWindows:    13. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:157][  0]LogWindows:    14. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:157][  0]LogWindows:    15. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:157][  0]LogWindows:    16. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:158][  0]LogWindows:    17. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:158][  0]LogWindows:    18. 'AMD Radeon RX 550' (P:0 D:0)
+[2019.11.11-17.40.00:158][  0]LogWindows:    19. 'mv video hook driver2' (P:0 D:0)
+[2019.11.11-17.40.00:158][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:16 
+[2019.11.11-17.40.00:158][  0]LogD3D11RHI:     Adapter Name: AMD Radeon RX 550
+[2019.11.11-17.40.00:158][  0]LogD3D11RHI:   Driver Version: Adrenalin 17.12 (internal:24.20.11016.4, unified:24.20.11016.4)
+[2019.11.11-17.40.00:158][  0]LogD3D11RHI:      Driver Date: 5-16-2018
+[2019.11.11-17.40.00:158][  0]LogRHI: Texture pool is 2829 MB (70% of 4042 MB)
+[2019.11.11-17.40.00:249][  0]LogD3D11RHI: Async texture creation enabled
+[2019.11.11-17.40.00:260][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2019.11.11-17.40.00:551][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.11.11-17.40.00:559][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.11.11-17.40.00:566][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.11.11-17.40.00:574][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.11.11-17.40.00:585][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.11.11-17.40.00:592][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.11.11-17.40.00:599][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.11.11-17.40.00:607][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.11.11-17.40.00:611][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.11.11-17.40.00:644][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.11.11-17.40.00:646][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.11.11-17.40.00:666][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.11.11-17.40.00:666][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.11.11-17.40.00:677][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.11.11-17.40.00:677][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.11.11-17.40.00:683][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.11.11-17.40.00:688][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.11.11-17.40.00:694][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.11.11-17.40.00:706][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.11.11-17.40.00:728][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.11.11-17.40.00:728][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.11.11-17.40.00:728][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.11.11-17.40.00:763][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.11.11-17.40.00:830][  0]LogShaderCompilers: Guid format shader working directory is -8 characters bigger than the processId version (../../../../../Documents/Unreal Projects/CogCollectors/Intermediate/Shaders/WorkingDirectory/15176/).
+[2019.11.11-17.40.00:830][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/130163/AppData/Local/Temp/UnrealShaderWorkingDir/BBF4F14F44520D46C4453CA94D51F118/'.
+[2019.11.11-17.40.00:833][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.11.11-17.40.00:833][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.11.11-17.40.00:833][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.11.11-17.40.02:518][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/130163/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/130163/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/CogCollectors/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/CogCollectors/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.11-17.40.02:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.11.11-17.40.02:576][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.11.11-17.40.02:577][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.11.11-17.40.02:577][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.11.11-17.40.02:578][  0]LogDerivedDataCache: Using Local data cache path C:/Users/130163/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.11.11-17.40.02:578][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.11.11-17.40.02:578][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.11.11-17.40.02:595][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.11.11-17.40.02:597][  0]LogSlate: Using FreeType 2.6.0
+[2019.11.11-17.40.02:608][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.11.11-17.40.02:765][  0]LogAssetRegistry: FAssetRegistry took 0.0021 seconds to start up
+[2019.11.11-17.40.02:987][  0]LogInit: Selected Device Profile: [Windows]
+[2019.11.11-17.40.03:167][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.11.11-17.40.03:167][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.11.11-17.40.03:167][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.11.11-17.40.03:167][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.11.11-17.40.03:167][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.11.11-17.40.03:189][  0]LogNetVersion: CogCollectors 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 1308719714)
+[2019.11.11-17.40.03:935][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.054152 seconds
+[2019.11.11-17.40.03:941][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.11.11-17.40.03:941][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.11.11-17.40.03:941][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.11.11-17.40.05:900][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.11.11-17.40.05:901][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.11.11-17.40.05:958][  0]SourceControl: Source control is disabled
+[2019.11.11-17.40.05:958][  0]SourceControl: Source control is disabled
+[2019.11.11-17.40.05:960][  0]SourceControl: Source control is disabled
+[2019.11.11-17.40.05:961][  0]SourceControl: Source control is disabled
+[2019.11.11-17.40.06:063][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.11.11-17.40.06:204][  0]LogOcInput: OculusInput pre-init called
+[2019.11.11-17.40.06:209][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.11.11-17.40.06:209][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.11.11-17.40.06:291][  0]LogEngine: Initializing Engine...
+[2019.11.11-17.40.06:291][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.11.11-17.40.06:292][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.11.11-17.40.06:592][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.11.11-17.40.06:606][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.11.11-17.40.06:628][  0]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-17.40.06:869][  0]LogInit: FAudioDevice initialized.
+[2019.11.11-17.40.06:869][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.11.11-17.40.06:941][  0]LogDerivedDataCache: Saved boot cache 0.07s 73MB C:/Users/130163/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.11.11-17.40.06:950][  0]LogInit: Texture streaming: Enabled
+[2019.11.11-17.40.06:968][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.11.11-17.40.06:968][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.11.11-17.40.06:969][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.11.11-17.40.07:042][  0]LogInit: Transaction tracking system initialized
+[2019.11.11-17.40.07:074][  0]BlueprintLog: New page: Editor Load
+[2019.11.11-17.40.07:159][  0]LocalizationService: Localization service is disabled
+[2019.11.11-17.40.07:564][  0]LogFileCache: Scanning file cache for directory 'C:/Users/130163/Documents/Unreal Projects/CogCollectors/Content/' took 0.01s
+[2019.11.11-17.40.07:564][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.11.11-17.40.07:565][  0]LogCook: Display: Mobile HDR setting 1
+[2019.11.11-17.40.07:849][  0]SourceControl: Source control is disabled
+[2019.11.11-17.40.07:849][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-17.40.07:860][  0]LightingResults: New page: Lighting Build
+[2019.11.11-17.40.07:868][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-17.40.07:868][  0]MapCheck: New page: Map Check
+[2019.11.11-17.40.07:868][  0]LightingResults: New page: Lighting Build
+[2019.11.11-17.40.07:897][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.11-17.40.08:171][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:171][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:180][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:180][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:183][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:183][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:183][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:183][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:184][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:184][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by Inventory_UI
+[2019.11.11-17.40.08:184][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:184][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by Inventory_UI
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_1
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_1
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_2
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_2
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_2
+[2019.11.11-17.40.08:185][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Item_Data_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:185][  0]LoadErrors: Failed to load /Game/333/MyChar.MyChar_C Referenced by K2Node_VariableGet_2
+[2019.11.11-17.40.08:186][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:186][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Inventory_UI.uasset' failed to load '/Game/333/MyChar': Can't find file.
+[2019.11.11-17.40.08:282][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:282][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:350][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:350][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:351][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:351][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:352][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:352][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:357][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:357][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.11.11-17.40.08:357][  0]LogLinker: Warning: While loading '../../../../../Documents/Unreal Projects/CogCollectors/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap' failed to load '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData': Can't find file.
+[2019.11.11-17.40.08:357][  0]LoadErrors: Failed to load /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData Referenced by PersistentLevel
+[2019.11.11-17.40.08:496][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.11.11-17.40.08:508][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-17.40.08:533][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.11.11-17.40.08:533][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-17.40.08:533][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.151ms to complete.
+[2019.11.11-17.40.08:533][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.685
+[2019.11.11-17.40.08:672][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.40.08:679][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.40.08:685][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.40.08:690][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.40.08:710][  0]LogCollectionManager: Loaded 0 collections in 0.001943 seconds
+[2019.11.11-17.40.08:738][  0]LogFileCache: Scanning file cache for directory 'C:/Users/130163/Documents/Unreal Projects/CogCollectors/Saved/Collections/' took 0.00s
+[2019.11.11-17.40.08:738][  0]LogFileCache: Scanning file cache for directory 'C:/Users/130163/Documents/Unreal Projects/CogCollectors/Content/Developers/130163/Collections/' took 0.00s
+[2019.11.11-17.40.08:738][  0]LogFileCache: Scanning file cache for directory 'C:/Users/130163/Documents/Unreal Projects/CogCollectors/Content/Collections/' took 0.00s
+[2019.11.11-17.40.08:738][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2019.11.11-17.40.08:748][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2863 classes and 680 folders.
+[2019.11.11-17.40.08:762][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.11-17.40.09:131][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.11-17.40.09:146][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.11.11-17.40.09:222][  0]LogSlate: Took 0.004377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.11.11-17.40.09:227][  0]LogSlate: Took 0.003483 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.11.11-17.40.09:237][  0]LogSlate: Took 0.005841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.11.11-17.40.09:356][  0]LogRenderer: Reallocating scene render targets to support 1128x572 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-17.40.09:503][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-17.40.09:545][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.11.11-17.40.09:557][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.11.11-17.40.09:557][  0]LogLoad: (Engine Initialization) Total time: 13.72 seconds
+[2019.11.11-17.40.09:557][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.11.11-17.40.09:568][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.11.11-17.40.09:615][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.11.11-17.40.09:617][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-17.40.09:660][  0]LogSlate: Took 0.005486 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.11-17.40.10:226][ 11]LogAssetRegistry: Asset discovery search completed in 7.4618 seconds
+[2019.11.11-17.40.10:228][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000003 seconds (found 0 objects)
+[2019.11.11-17.40.10:228][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
+[2019.11.11-17.40.16:031][564]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-17.40.16:034][564]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-17.40.18:940][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.40.21:670][120]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.11.11-17.40.21:946][120]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-17.40.22:024][120]LogAssetEditorManager: Opening Asset editor for World /Game/333/Cog_Icelvl.Cog_Icelvl
+[2019.11.11-17.40.22:049][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.11-17.40.22:049][120]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.11.11-17.40.22:049][120]LightingResults: New page: Lighting Build
+[2019.11.11-17.40.22:050][120]LoadErrors: New page: Loading map: Cog_Icelvl.umap
+[2019.11.11-17.40.22:050][120]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-17.40.22:050][120]MapCheck: New page: Map Check
+[2019.11.11-17.40.22:050][120]LightingResults: New page: Lighting Build
+[2019.11.11-17.40.22:075][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2019.11.11-17.40.34:762][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.11.11-17.40.34:838][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.11.11-17.40.34:859][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.11.11-17.40.34:860][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.13ms to complete.
+[2019.11.11-17.40.34:860][120]LogFileHelpers: Loading map 'Cog_Icelvl' took 12.811
+[2019.11.11-17.41.09:723][225]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={A091AB30-46EE-5BD6-6859-8CA1EA7319E4}
+[2019.11.11-17.41.09:723][225]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={4CBF8ECE-464E-8089-071F-ABA0A9D89C0A}
+[2019.11.11-17.42.55:811][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.42.55:876][689]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-17.42.55:893][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.42.55:893][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-17.42.55:893][689]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 7:42:55 AM)
+[2019.11.11-17.42.55:894][689]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.11.11-17.42.55:895][689]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-17.42.56:256][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.361183s)
+[2019.11.11-17.42.56:257][689]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-17.42.56:257][689]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2019.11.11-17.42.56:257][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (0.362426s)
+[2019.11.11-17.42.56:281][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.11.11-17.42.56:295][689]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-17.42.56:404][689]LogInit: FAudioDevice initialized.
+[2019.11.11-17.42.56:414][689]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-17.42.56:434][689]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-12.42.56
+[2019.11.11-17.42.56:435][689]LogWorld: Bringing up level for play took: 0.018743
+[2019.11.11-17.42.56:435][689]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2019.11.11-17.42.56:449][689]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.11.11-17.42.56:457][689]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 0.542
+[2019.11.11-17.42.56:457][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.42.56:477][690]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.081713 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-17.43.02:677][211]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.43.02:681][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.43.02:681][211]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-17.43.02:681][211]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-17.43.02:711][211]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-17.43.02:711][211]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.43.02:743][211]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.43.02:766][211]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.11.11-17.43.02:789][212]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.11.11-17.43.16:912][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.45.30:016][102]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.45.45:353][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.50.09:492][292]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={5671FEC6-495D-A5F6-6E98-7EA4713D8C8C}
+[2019.11.11-17.51.29:915][223]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.52.39:362][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.52.48:389][465]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.52.49:160][527]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.53.03:211][694]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.53.18:787][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.53.22:382][715]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.53.27:523][ 96]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.53.38:227][846]Cmd: TRANSACTION UNDO
+[2019.11.11-17.53.38:227][846]LogEditorTransaction: Undo Vertex Paint
+[2019.11.11-17.54.30:806][726]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-17.54.33:188][900]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.54.34:413][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.54.38:916][312]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.54.44:626][698]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.54.59:681][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.54.59:870][610]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/M_Ice_Inst1.M_Ice_Inst1
+[2019.11.11-17.55.00:268][610]LogRenderer: Reallocating scene render targets to support 1336x920 Format 10 NumSamples 1 (Frame:1).
+[2019.11.11-17.55.11:509][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.55.12:288][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
+[2019.11.11-17.55.14:582][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.11.11-17.55.16:392][831]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.55.20:122][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.11.11-17.55.20:863][134]Cmd: DELETE
+[2019.11.11-17.55.20:863][134]Cmd: ACTOR DELETE
+[2019.11.11-17.55.20:885][134]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.11-17.55.20:909][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.11-17.55.20:909][134]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.11.11-17.55.22:515][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.55.30:469][687]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.55.30:845][716]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.55.51:805][345]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.55.59:363][852]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.56.01:483][994]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.56.08:502][471]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.56.36:945][296]Cmd: TRANSACTION UNDO
+[2019.11.11-17.56.36:946][296]LogEditorTransaction: Undo Vertex Paint
+[2019.11.11-17.56.37:792][333]Cmd: TRANSACTION UNDO
+[2019.11.11-17.56.37:792][333]LogEditorTransaction: Undo Vertex Paint
+[2019.11.11-17.56.38:649][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.57.01:969][769]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-17.57.04:409][924]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.57.06:076][ 27]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.57.15:385][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.57.16:731][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_TableRound)
+[2019.11.11-17.57.17:481][823]Cmd: DELETE
+[2019.11.11-17.57.17:481][823]Cmd: ACTOR DELETE
+[2019.11.11-17.57.17:495][823]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.11.11-17.57.17:520][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.11.11-17.57.17:520][823]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2019.11.11-17.57.25:155][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.58.25:601][556]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.58.26:070][595]LogActorFactory: Actor Factory created SM_TableRound
+[2019.11.11-17.58.29:028][812]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.58.41:621][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.58.48:572][150]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-17.59.09:116][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.59.09:874][568]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-17.59.09:886][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.59.09:887][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-17.59.09:887][568]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 7:59:09 AM)
+[2019.11.11-17.59.09:887][568]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-17.59.10:133][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.245496s)
+[2019.11.11-17.59.10:133][568]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-17.59.10:133][568]LogPlayLevel: PIE: World Init took: (0.000871s)
+[2019.11.11-17.59.10:133][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (0.246481s)
+[2019.11.11-17.59.10:157][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2019.11.11-17.59.10:169][568]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-17.59.10:250][568]LogInit: FAudioDevice initialized.
+[2019.11.11-17.59.10:256][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-17.59.10:272][568]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-12.59.10
+[2019.11.11-17.59.10:273][568]LogWorld: Bringing up level for play took: 0.015680
+[2019.11.11-17.59.10:273][568]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.11.11-17.59.10:276][568]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 0.746
+[2019.11.11-17.59.10:276][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.59.10:288][569]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099059 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-17.59.16:985][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.59.16:985][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.59.16:985][838]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-17.59.16:985][838]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-17.59.17:041][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-17.59.17:041][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-17.59.17:074][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-17.59.17:099][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.11-17.59.17:114][839]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.11.11-17.59.40:509][760]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.59.49:116][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-17.59.51:221][554]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-17.59.54:266][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.00.03:474][359]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.00.04:011][390]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.00.04:870][444]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.00.05:462][469]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.00.18:206][ 68]LogMaterial: Display: Missing cached shader map for material M_Ice, compiling. 
+[2019.11.11-18.00.18:374][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2019.11.11-18.00.18:374][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2019.11.11-18.00.18:374][ 68]LogMaterial: Display: Missing cached shader map for material M_Ice, compiling. 
+[2019.11.11-18.00.20:179][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2019.11.11-18.00.20:446][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 208
+[2019.11.11-18.00.21:639][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2019.11.11-18.00.21:823][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2019.11.11-18.00.23:107][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2019.11.11-18.00.23:898][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2019.11.11-18.00.25:469][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2019.11.11-18.00.28:038][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2019.11.11-18.00.28:039][ 68]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2019.11.11-18.00.28:039][ 68]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2019.11.11-18.00.28:961][111]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2019.11.11-18.00.28:969][111]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.11.11-18.00.30:380][175]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2019.11.11-18.00.30:462][178]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2019.11.11-18.00.32:523][262]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2019.11.11-18.00.32:863][275]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.11-18.00.34:966][393]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.11.11-18.00.35:014][396]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.11-18.00.36:554][423]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.11.11-18.00.37:186][434]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.11.11-18.00.38:403][457]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2019.11.11-18.00.38:712][462]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.11-18.00.39:779][481]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2019.11.11-18.00.40:252][489]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.11-18.01.00:998][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.01.07:034][908]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-18.01.10:364][970]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.01.11:707][994]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.01.14:724][ 49]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.02.08:541][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-18.02.08:628][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2019.11.11-18.02.08:630][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.11-18.02.09:928][ 20]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl_Auto19F2D7BE74F50663957527E8D8FDF5715.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto1.umap'
+[2019.11.11-18.02.09:937][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/333/Cog_Icelvl' took 1.332
+[2019.11.11-18.02.09:938][ 20]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.332
+[2019.11.11-18.02.09:943][ 20]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_Ice_Inst1] ([1] browsable assets)...
+[2019.11.11-18.02.09:969][ 20]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/M_Ice_Inst1.M_Ice_Inst1]
+[2019.11.11-18.02.09:969][ 20]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_Ice_Inst1]
+[2019.11.11-18.02.09:969][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Ice_Inst1" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/M_Ice_Inst1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.11.11-18.02.09:991][ 20]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/M_Ice_Inst1_Auto117ED04D84CA36C19B3B1328CA9D10879.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/M_Ice_Inst1_Auto1.uasset'
+[2019.11.11-18.02.09:992][ 20]LogFileHelpers: Auto-saving content packages took 0.050
+[2019.11.11-18.02.11:080][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-18.02.11:092][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.02.11:092][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-18.02.11:092][ 39]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 8:02:11 AM)
+[2019.11.11-18.02.11:092][ 39]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.02.17:450][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (6.356610s)
+[2019.11.11-18.02.17:451][ 39]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-18.02.17:451][ 39]LogPlayLevel: PIE: World Init took: (0.001035s)
+[2019.11.11-18.02.17:451][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (6.357773s)
+[2019.11.11-18.02.17:475][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.11.11-18.02.17:487][ 39]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-18.02.17:598][ 39]LogInit: FAudioDevice initialized.
+[2019.11.11-18.02.17:607][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-18.02.17:635][ 39]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-13.02.17
+[2019.11.11-18.02.17:636][ 39]LogWorld: Bringing up level for play took: 0.027112
+[2019.11.11-18.02.17:636][ 39]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.11.11-18.02.17:639][ 39]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 6.109
+[2019.11.11-18.02.17:640][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.02.27:547][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.02.27:548][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.02.27:548][119]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.02.27:548][119]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.02.27:797][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-18.02.27:797][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.02.27:831][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.02.27:878][119]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.11-18.02.27:898][120]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.11.11-18.03.18:583][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.03.24:218][243]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.03.24:931][259]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.03.31:854][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.03.35:271][500]LogSlate: Window 'Color Picker' being destroyed
+[2019.11.11-18.03.49:085][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.03.52:244][884]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2019.11.11-18.03.52:253][884]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2019.11.11-18.07.09:622][656]LogHttp: Warning: 00000219EAF62200: request has been successfully processed. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2E689D54-48E7-EF8B-9077-2C862A14530D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=2d26e0d2490d62e4308af68592c0d8ec%7C322f0bd978e04892961ccbc9ed7b07d6%7C351294a8-6b5a-4905-b5b7-f81355a980bc&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 502, content length: 138, actual payload size: 138
+[2019.11.11-18.07.09:622][656]LogHttp: Warning: 00000219EAF62200 Response Header Server: awselb/2.0
+[2019.11.11-18.07.09:622][656]LogHttp: Warning: 00000219EAF62200 Response Header Date: Mon, 11 Nov 2019 18:07:09 GMT
+[2019.11.11-18.07.09:622][656]LogHttp: Warning: 00000219EAF62200 Response Header Content-Type: text/html
+[2019.11.11-18.07.09:623][656]LogHttp: Warning: 00000219EAF62200 Response Header Content-Length: 138
+[2019.11.11-18.07.09:623][656]LogHttp: Warning: 00000219EAF62200 Response Header Connection: keep-alive
+[2019.11.11-18.08.51:311][959]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.11.11-18.09.19:235][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.09.32:635][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.09.32:741][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.11.11-18.09.33:940][683]LogSlate: Window 'Save Content' being destroyed
+[2019.11.11-18.09.36:465][817]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-18.09.36:478][817]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.09.36:478][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-18.09.36:478][817]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 8:09:36 AM)
+[2019.11.11-18.09.36:478][817]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.09.42:973][817]LogPlayLevel: PIE: StaticDuplicateObject took: (6.494654s)
+[2019.11.11-18.09.42:974][817]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-18.09.42:974][817]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2019.11.11-18.09.42:974][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (6.495670s)
+[2019.11.11-18.09.42:998][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.11-18.09.43:009][817]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-18.09.43:084][817]LogInit: FAudioDevice initialized.
+[2019.11.11-18.09.43:088][817]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-18.09.43:105][817]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-13.09.43
+[2019.11.11-18.09.43:106][817]LogWorld: Bringing up level for play took: 0.015975
+[2019.11.11-18.09.43:106][817]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.11.11-18.09.43:109][817]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 7.579
+[2019.11.11-18.09.43:109][817]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.09.54:600][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.09.54:600][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.09.54:600][903]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.09.54:601][903]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.09.55:032][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-18.09.55:032][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.09.55:066][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.09.55:108][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.11.11-18.09.55:127][904]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.11.11-18.09.56:390][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.10.00:998][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.12.44:632][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2019.11.11-18.12.44:632][647]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/333/Cog_Icelvl' took 0.024
+[2019.11.11-18.12.44:635][647]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/M_Ice_Inst1] ([1] browsable assets)...
+[2019.11.11-18.12.44:666][647]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/M_Ice_Inst1.M_Ice_Inst1]
+[2019.11.11-18.12.44:666][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/M_Ice_Inst1]
+[2019.11.11-18.12.44:666][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Ice_Inst1" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/M_Ice_Inst1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2019.11.11-18.12.44:694][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.11-18.12.44:702][647]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2019.11.11-18.12.45:188][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.11-18.12.45:188][647]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.11-18.12.45:218][647]TextureStreamingBuild: Display: Compiling optional shaders took 0.523 seconds.
+[2019.11.11-18.12.45:244][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2019.11.11-18.12.45:268][647]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/M_Ice_Inst1_Auto2C22C26874378171DA89CB2B0645BF69E.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/M_Ice_Inst1_Auto2.uasset'
+[2019.11.11-18.12.45:269][647]LogFileHelpers: Auto-saving content packages took 0.635
+[2019.11.11-18.17.17:512][254]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\130163\Desktop\lolololZeldaxxxxxxx\Mesh\zeldaSkel_V001_004.fbx)
+[2019.11.11-18.17.17:546][254]LogFbx: Loading FBX Scene from C:\Users\130163\Desktop\lolololZeldaxxxxxxx\Mesh\zeldaSkel_V001_004.fbx
+[2019.11.11-18.17.17:679][254]LogFbx: FBX Scene Loaded Succesfully
+[2019.11.11-18.17.22:933][254]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.11.11-18.17.23:037][254]LogFbx: Valid bind pose for Pose (skinCluster49) - mesh_zeldaHair
+[2019.11.11-18.17.23:037][254]LogFbx: Valid bind pose for Pose (skinCluster51) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster55) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster56) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster60) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster61) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster62) - mesh_zeldaHair
+[2019.11.11-18.17.23:038][254]LogFbx: Valid bind pose for Pose (skinCluster63) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster64) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster65) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster66) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster67) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster68) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster70) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster71) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster82) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster84) - mesh_zeldaHair
+[2019.11.11-18.17.23:039][254]LogFbx: Valid bind pose for Pose (skinCluster85) - mesh_zeldaHair
+[2019.11.11-18.17.23:040][254]LogFbx: Valid bind pose for Pose (skinCluster86) - mesh_zeldaHair
+[2019.11.11-18.17.23:040][254]LogFbx: Valid bind pose for Pose (skinCluster87) - mesh_zeldaHair
+[2019.11.11-18.17.23:040][254]LogFbx: Valid bind pose for Pose (skinCluster88) - mesh_zeldaHair
+[2019.11.11-18.17.23:040][254]LogFbx: Valid bind pose for Pose (skinCluster89) - mesh_zeldaHair
+[2019.11.11-18.17.23:040][254]LogFbx: Valid bind pose for Pose (skinCluster90) - mesh_zeldaHair
+[2019.11.11-18.17.23:042][254]LogFbx: Valid bind pose for Pose (skinCluster108) - mesh_zeldaHair
+[2019.11.11-18.17.23:042][254]LogFbx: Valid bind pose for Pose (skinCluster109) - mesh_zeldaHair
+[2019.11.11-18.17.23:180][254]LogMaterial: Display: Material /Game/mat_zeldaHair.mat_zeldaHair needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.23:183][254]LogMaterial: Display: Missing cached shader map for material mat_zeldaHair, compiling. 
+[2019.11.11-18.17.23:222][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.11-18.17.23:222][254]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.11-18.17.23:224][254]LogLinker: Failed to load '/Game/hair_diff': Can't find file.
+[2019.11.11-18.17.23:224][254]LogLinker: Failed to load '/Game/hair_diff': Can't find file.
+[2019.11.11-18.17.23:316][254]LogTexture: Display: Building textures: hair_diff (AutoDXT, 2048X2048)
+[2019.11.11-18.17.23:795][254]LogMaterial: Display: Missing cached shader map for material mat_zeldaHair, compiling. 
+[2019.11.11-18.17.23:832][254]LogFbx: Triangulating skeletal mesh mesh_zeldaHair
+[2019.11.11-18.17.23:959][254]LogFbx: Triangulating skeletal mesh mesh_zeldaHairBackface
+[2019.11.11-18.17.24:089][254]LogMaterial: Display: Material /Game/mat_zeldaEyes.mat_zeldaEyes needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.24:097][254]LogMaterial: Display: Missing cached shader map for material mat_zeldaEyes, compiling. 
+[2019.11.11-18.17.24:137][254]LogLinker: Failed to load '/Game/eyes_diff': Can't find file.
+[2019.11.11-18.17.24:138][254]LogLinker: Failed to load '/Game/eyes_diff': Can't find file.
+[2019.11.11-18.17.24:163][254]LogTexture: Display: Building textures: eyes_diff (AutoDXT, 1024X1024)
+[2019.11.11-18.17.24:239][254]LogMaterial: Display: Missing cached shader map for material mat_zeldaEyes, compiling. 
+[2019.11.11-18.17.24:272][254]LogFbx: Triangulating skeletal mesh mesh_zeldaEyes
+[2019.11.11-18.17.24:301][254]LogMaterial: Display: Material /Game/mat_zelda.mat_zelda needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.24:316][254]LogMaterial: Display: Missing cached shader map for material mat_zelda, compiling. 
+[2019.11.11-18.17.24:355][254]LogLinker: Failed to load '/Game/zelda_diff': Can't find file.
+[2019.11.11-18.17.24:355][254]LogLinker: Failed to load '/Game/zelda_diff': Can't find file.
+[2019.11.11-18.17.24:461][254]LogTexture: Display: Building textures: zelda_diff (AutoDXT, 2048X2048)
+[2019.11.11-18.17.24:883][254]LogMaterial: Display: Missing cached shader map for material mat_zelda, compiling. 
+[2019.11.11-18.17.24:923][254]LogFbx: Triangulating skeletal mesh mesh_zeldaCape
+[2019.11.11-18.17.24:992][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 180
+[2019.11.11-18.17.24:992][254]LogFbx: Triangulating skeletal mesh mesh_zeldaWaist
+[2019.11.11-18.17.25:036][254]LogFbx: Triangulating skeletal mesh mesh_zeldaPouch
+[2019.11.11-18.17.25:053][254]LogFbx: Triangulating skeletal mesh mesh_zelda
+[2019.11.11-18.17.25:447][254]LogMaterial: Display: Material /Game/mat_melee.mat_melee needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.25:450][254]LogMaterial: Display: Missing cached shader map for material mat_melee, compiling. 
+[2019.11.11-18.17.25:487][254]LogLinker: Failed to load '/Game/melee_diff': Can't find file.
+[2019.11.11-18.17.25:487][254]LogLinker: Failed to load '/Game/melee_diff': Can't find file.
+[2019.11.11-18.17.25:539][254]LogTexture: Display: Building textures: melee_diff (AutoDXT, 1024X2048)
+[2019.11.11-18.17.25:763][254]LogMaterial: Display: Missing cached shader map for material mat_melee, compiling. 
+[2019.11.11-18.17.25:810][254]LogFbx: Triangulating skeletal mesh mesh_masterSword
+[2019.11.11-18.17.25:841][254]LogFbx: Triangulating skeletal mesh mesh_shield
+[2019.11.11-18.17.25:862][254]LogFbx: Triangulating skeletal mesh mesh_iceRod
+[2019.11.11-18.17.25:877][254]LogFbx: Triangulating skeletal mesh mesh_dagger
+[2019.11.11-18.17.25:885][254]LogMaterial: Display: Material /Game/mat_ranged.mat_ranged needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.25:889][254]LogMaterial: Display: Missing cached shader map for material mat_ranged, compiling. 
+[2019.11.11-18.17.25:923][254]LogLinker: Failed to load '/Game/ranged_diff': Can't find file.
+[2019.11.11-18.17.25:923][254]LogLinker: Failed to load '/Game/ranged_diff': Can't find file.
+[2019.11.11-18.17.25:923][254]LogFbxMaterialImport: Warning: Unable to find Texture file E:/models/BOTW/Textures/ranged_diff.psd
+[2019.11.11-18.17.25:926][254]LogMaterial: Display: Missing cached shader map for material mat_ranged, compiling. 
+[2019.11.11-18.17.25:961][254]LogFbx: Triangulating skeletal mesh mesh_bow
+[2019.11.11-18.17.25:995][254]LogFbx: Triangulating skeletal mesh mesh_quiver
+[2019.11.11-18.17.26:014][254]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 290
+[2019.11.11-18.17.26:015][254]LogFbx: Triangulating skeletal mesh mesh_arrow_01
+[2019.11.11-18.17.26:031][254]LogFbx: Triangulating skeletal mesh mesh_arrow_02
+[2019.11.11-18.17.26:048][254]LogFbx: Triangulating skeletal mesh mesh_arrow_03
+[2019.11.11-18.17.26:066][254]LogMaterial: Display: Material /Game/mat_misc.mat_misc needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.26:070][254]LogMaterial: Display: Missing cached shader map for material mat_misc, compiling. 
+[2019.11.11-18.17.26:107][254]LogLinker: Failed to load '/Game/misc_diff': Can't find file.
+[2019.11.11-18.17.26:107][254]LogLinker: Failed to load '/Game/misc_diff': Can't find file.
+[2019.11.11-18.17.26:175][254]LogTexture: Display: Building textures: misc_diff (AutoDXT, 2048X1024)
+[2019.11.11-18.17.26:388][254]LogMaterial: Display: Missing cached shader map for material mat_misc, compiling. 
+[2019.11.11-18.17.26:425][254]LogFbx: Triangulating skeletal mesh mesh_sheikaSlate
+[2019.11.11-18.17.26:470][254]LogFbx: Triangulating skeletal mesh mesh_torch
+[2019.11.11-18.17.26:493][254]LogMaterial: Display: Material /Game/mat_fire.mat_fire needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.26:498][254]LogMaterial: Display: Missing cached shader map for material mat_fire, compiling. 
+[2019.11.11-18.17.26:527][254]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 340
+[2019.11.11-18.17.26:534][254]LogLinker: Failed to load '/Game/fire_diff': Can't find file.
+[2019.11.11-18.17.26:534][254]LogLinker: Failed to load '/Game/fire_diff': Can't find file.
+[2019.11.11-18.17.26:557][254]LogTexture: Display: Building textures: fire_diff (AutoDXT, 512X512)
+[2019.11.11-18.17.26:645][254]LogTexture: Display: Building textures: fire_diff (AutoDXT, 512X512)
+[2019.11.11-18.17.26:710][254]LogMaterial: Display: Missing cached shader map for material mat_fire, compiling. 
+[2019.11.11-18.17.26:798][254]LogFbx: Triangulating skeletal mesh mesh_fire
+[2019.11.11-18.17.26:806][254]LogFbx: Triangulating skeletal mesh mesh_fireBackface
+[2019.11.11-18.17.26:813][254]LogFbx: Triangulating skeletal mesh mesh_book
+[2019.11.11-18.17.26:831][254]LogFbx: Triangulating skeletal mesh mesh_harp
+[2019.11.11-18.17.26:853][254]LogMaterial: Display: Material /Game/mat_consumables.mat_consumables needed to have new flag set bUsedWithSkeletalMesh !
+[2019.11.11-18.17.26:863][254]LogMaterial: Display: Missing cached shader map for material mat_consumables, compiling. 
+[2019.11.11-18.17.26:899][254]LogLinker: Failed to load '/Game/consumables_diff': Can't find file.
+[2019.11.11-18.17.26:899][254]LogLinker: Failed to load '/Game/consumables_diff': Can't find file.
+[2019.11.11-18.17.26:928][254]LogTexture: Display: Building textures: consumables_diff (AutoDXT, 1024X512)
+[2019.11.11-18.17.26:975][254]LogMaterial: Display: Missing cached shader map for material mat_consumables, compiling. 
+[2019.11.11-18.17.27:011][254]LogFbx: Triangulating skeletal mesh mesh_potion
+[2019.11.11-18.17.27:040][254]LogFbx: Triangulating skeletal mesh mesh_apple
+[2019.11.11-18.17.27:050][254]LogFbx: Triangulating skeletal mesh mesh_appleBitten
+[2019.11.11-18.17.27:091][254]LogFbx: Warning: Bones digested - 375  Depth of hierarchy - 21
+[2019.11.11-18.17.27:804][254]LogSkeletalMesh: Section 0: 6078 vertices, 15 active bones
+[2019.11.11-18.17.27:804][254]LogSkeletalMesh: Section 1: 554 vertices, 11 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 2: 10126 vertices, 186 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 3: 1712 vertices, 53 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 4: 2582 vertices, 12 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 5: 2189 vertices, 26 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 6: 490 vertices, 1 active bones
+[2019.11.11-18.17.27:805][254]LogSkeletalMesh: Section 7: 747 vertices, 44 active bones
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 0: Material=0, 8110 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 1: Material=1, 928 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 2: Material=2, 15600 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 3: Material=3, 2388 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 4: Material=4, 3428 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 5: Material=5, 2852 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 6: Material=6, 464 triangles
+[2019.11.11-18.17.27:808][254]LogSkeletalMesh: Section 7: Material=7, 1320 triangles
+[2019.11.11-18.17.27:815][254]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.17.27:856][254]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.17.27:873][254]LogLinker: Failed to load '/Game/zeldaSkel_V001_004_Skeleton': Can't find file.
+[2019.11.11-18.17.27:873][254]LogLinker: Failed to load '/Game/zeldaSkel_V001_004_Skeleton': Can't find file.
+[2019.11.11-18.17.27:875][254]LogLinker: Failed to load '/Game/zeldaSkel_V001_004_PhysicsAsset': Can't find file.
+[2019.11.11-18.17.27:875][254]LogLinker: Failed to load '/Game/zeldaSkel_V001_004_PhysicsAsset': Can't find file.
+[2019.11.11-18.17.27:885][254]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.17.27:910][254]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.17.27:950][254]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.17.27:968][254]FBXImport: Warning: The following bones are missing from the bind pose:
+Bip001_Tongue3  
+Bip001_EyelidUp1_L  
+Bip001_EyelidUp1_R  
+Bip001_EyelidDown1_L  
+Bip001_EyelidDown1_R  
+Bip001_Cape3_L  
+Bip001_Cape3_C  
+Bip001_Cape3_R  
+Bip001_Anchor_SwordBack  
+Bip001_Anchor_SheildBack  
+Bip001_Anchor_RodBack  
+Bip001_Anchor_BowBack  
+Bip001_Anchor_Wepon_L  
+Bip001_Anchor_Sheild  
+Bip001_Anchor_Wepon_R  
+Bip001_Anchor_DaggerHip  
+Bip001_Anchor_SlateHip  
+bn_BookSub_L  
+bn_BookSub_R  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2019.11.11-18.17.27:980][254]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.17.28:018][254]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.17.28:082][255]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 504
+[2019.11.11-18.17.28:573][260]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 494
+[2019.11.11-18.17.29:980][273]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 484
+[2019.11.11-18.17.29:984][273]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 474
+[2019.11.11-18.17.31:423][286]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 464
+[2019.11.11-18.17.31:753][289]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 454
+[2019.11.11-18.17.33:209][304]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 444
+[2019.11.11-18.17.33:758][310]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 434
+[2019.11.11-18.17.34:568][318]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-18.17.34:670][318]LogSlate: Window 'Message Log' being destroyed
+[2019.11.11-18.17.35:036][320]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 424
+[2019.11.11-18.17.35:139][324]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 414
+[2019.11.11-18.17.36:540][337]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 404
+[2019.11.11-18.17.36:786][339]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 394
+[2019.11.11-18.17.38:268][353]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 384
+[2019.11.11-18.17.38:905][359]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 374
+[2019.11.11-18.17.40:122][370]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 364
+[2019.11.11-18.17.40:273][371]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 354
+[2019.11.11-18.17.41:719][384]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 344
+[2019.11.11-18.17.41:878][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 334
+[2019.11.11-18.17.43:340][400]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 324
+[2019.11.11-18.17.44:061][407]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 314
+[2019.11.11-18.17.45:158][417]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 304
+[2019.11.11-18.17.45:421][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 294
+[2019.11.11-18.17.46:828][448]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 284
+[2019.11.11-18.17.46:939][450]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 274
+[2019.11.11-18.17.48:383][482]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 264
+[2019.11.11-18.17.49:176][499]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 254
+[2019.11.11-18.17.50:196][519]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 244
+[2019.11.11-18.17.50:502][525]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 234
+[2019.11.11-18.17.51:921][551]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 224
+[2019.11.11-18.17.51:949][551]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 214
+[2019.11.11-18.17.53:438][580]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 204
+[2019.11.11-18.17.54:320][599]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 194
+[2019.11.11-18.17.55:348][622]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 184
+[2019.11.11-18.17.55:828][630]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 174
+[2019.11.11-18.17.56:941][654]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 164
+[2019.11.11-18.17.57:147][660]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 154
+[2019.11.11-18.17.59:450][710]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 144
+[2019.11.11-18.18.00:067][723]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 134
+[2019.11.11-18.18.01:173][747]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 124
+[2019.11.11-18.18.01:983][764]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 114
+[2019.11.11-18.18.03:832][804]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 104
+[2019.11.11-18.18.04:530][818]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2019.11.11-18.18.05:687][841]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2019.11.11-18.18.06:011][848]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 74
+[2019.11.11-18.18.08:081][893]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2019.11.11-18.18.08:513][902]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2019.11.11-18.18.09:611][926]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.11.11-18.18.10:617][947]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.11-18.18.11:428][965]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2019.11.11-18.18.12:484][987]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.11-18.18.12:808][994]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2019.11.11-18.18.13:616][ 12]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2019.11.11-18.18.21:544][148]Cmd: DELETE
+[2019.11.11-18.18.21:544][148]Cmd: ACTOR DELETE
+[2019.11.11-18.18.21:568][148]LogEditorActor: Deleted Actor: SkeletalMeshActor
+[2019.11.11-18.18.21:601][148]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2019.11.11-18.18.21:602][148]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2019.11.11-18.18.26:068][234]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.18.33:807][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2019.11.11-18.18.37:927][369]LogSlate: Window 'Delete Assets' being destroyed
+[2019.11.11-18.18.41:124][369]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/consumables_diff.consumables_diff
+	Asset Name: /Game/eyes_diff.eyes_diff
+	Asset Name: /Game/fire_diff.fire_diff
+	Asset Name: /Game/hair_diff.hair_diff
+	Asset Name: /Game/mat_consumables.mat_consumables
+	Asset Name: /Game/mat_fire.mat_fire
+	Asset Name: /Game/mat_melee.mat_melee
+	Asset Name: /Game/mat_misc.mat_misc
+	Asset Name: /Game/mat_ranged.mat_ranged
+	Asset Name: /Game/mat_zelda.mat_zelda
+[2019.11.11-18.18.41:794][369]LogMaterial: Display: Missing cached shader map for material mat_consumables, compiling. 
+[2019.11.11-18.18.41:794][369]LogMaterial: Warning: /Game/mat_consumables.mat_consumables (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:794][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:798][369]LogMaterial: Display: Missing cached shader map for material mat_fire, compiling. 
+[2019.11.11-18.18.41:799][369]LogMaterial: Warning: /Game/mat_fire.mat_fire (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:799][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:803][369]LogMaterial: Display: Missing cached shader map for material mat_misc, compiling. 
+[2019.11.11-18.18.41:803][369]LogMaterial: Warning: /Game/mat_misc.mat_misc (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:803][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:807][369]LogMaterial: Display: Missing cached shader map for material mat_melee, compiling. 
+[2019.11.11-18.18.41:807][369]LogMaterial: Warning: /Game/mat_melee.mat_melee (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:807][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:811][369]LogMaterial: Display: Missing cached shader map for material mat_zelda, compiling. 
+[2019.11.11-18.18.41:811][369]LogMaterial: Warning: /Game/mat_zelda.mat_zelda (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:811][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:815][369]LogMaterial: Display: Missing cached shader map for material mat_zeldaEyes, compiling. 
+[2019.11.11-18.18.41:815][369]LogMaterial: Warning: /Game/mat_zeldaEyes.mat_zeldaEyes (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:816][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:819][369]LogMaterial: Display: Missing cached shader map for material mat_zeldaHair, compiling. 
+[2019.11.11-18.18.41:820][369]LogMaterial: Warning: /Game/mat_zeldaHair.mat_zeldaHair (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.11.11-18.18.41:820][369]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2019.11.11-18.18.41:820][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.41:856][369]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.41:863][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.41:895][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.41:901][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.41:931][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.41:937][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.41:967][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.41:973][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:002][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.42:011][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:041][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.42:047][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:078][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.42:083][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:114][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.42:120][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:150][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.42:159][369]LogSkeletalMesh: Building Skeletal Mesh zeldaSkel_V001_004...
+[2019.11.11-18.18.42:189][369]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/zeldaSkel_V001_004.zeldaSkel_V001_004
+[2019.11.11-18.18.44:359][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2019.11.11-18.19.25:428][172]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.19.27:050][195]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-18.19.46:217][469]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 110
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 109
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 107
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 106
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 105
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 104
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 103
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 102
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 101
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 100
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 99
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 97
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 96
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 95
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 94
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 93
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 92
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 91
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 90
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 89
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 87
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 86
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 85
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 84
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 83
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 82
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 81
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 80
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 79
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 78
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 77
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 76
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 75
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 74
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 73
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 72
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 71
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2019.11.11-18.20.01:442][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 62
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 61
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 59
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 58
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 57
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 56
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 50
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 49
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 46
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 45
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 44
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 43
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 42
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 41
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 39
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 38
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 37
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 36
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 35
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 34
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.11-18.20.01:443][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.11-18.20.01:449][469]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.11.11-18.20.01:730][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 60
+[2019.11.11-18.20.01:731][469]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.11-18.20.03:059][544]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 40
+[2019.11.11-18.20.04:036][609]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.11.11-18.20.05:588][712]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 20
+[2019.11.11-18.20.05:669][718]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.11-18.20.07:312][835]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.11-18.20.08:071][886]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2019.11.11-18.20.10:150][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.20.10:262][ 13]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-18.20.10:284][ 13]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.20.10:284][ 13]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-18.20.10:284][ 13]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 8:20:10 AM)
+[2019.11.11-18.20.10:284][ 13]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.20.16:838][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (6.554341s)
+[2019.11.11-18.20.16:839][ 13]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-18.20.16:839][ 13]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.11.11-18.20.16:839][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (6.555468s)
+[2019.11.11-18.20.16:863][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2019.11.11-18.20.16:877][ 13]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-18.20.16:958][ 13]LogInit: FAudioDevice initialized.
+[2019.11.11-18.20.16:964][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-18.20.16:978][ 13]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-13.20.16
+[2019.11.11-18.20.16:978][ 13]LogWorld: Bringing up level for play took: 0.013446
+[2019.11.11-18.20.16:978][ 13]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.11.11-18.20.16:981][ 13]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 7.445
+[2019.11.11-18.20.16:981][ 13]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.20.16:998][ 14]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.100000 > MaxSimulationTimeStep (0.050) for 'ThirdPersonCharacter_C_0', movement 'Walking'
+[2019.11.11-18.21.55:908][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.21.55:908][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.21.55:908][807]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.21.55:909][807]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.21.55:978][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-18.21.55:979][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.21.56:018][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.21.56:077][807]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2019.11.11-18.21.56:094][808]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.11.11-18.22.14:999][163]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.22.17:124][301]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.22.18:808][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.22.21:880][511]LogMaterial: Display: Missing cached shader map for material M_Ice1, compiling. 
+[2019.11.11-18.22.21:942][511]LogMaterial: Display: Missing cached shader map for material M_Ice1, compiling. 
+[2019.11.11-18.22.21:972][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2019.11.11-18.22.21:972][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2019.11.11-18.22.23:273][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 218
+[2019.11.11-18.22.23:563][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 208
+[2019.11.11-18.22.24:782][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 198
+[2019.11.11-18.22.24:958][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 188
+[2019.11.11-18.22.26:223][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 178
+[2019.11.11-18.22.26:923][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 168
+[2019.11.11-18.22.28:549][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 158
+[2019.11.11-18.22.29:303][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 148
+[2019.11.11-18.22.32:951][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 138
+[2019.11.11-18.22.32:951][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 128
+[2019.11.11-18.22.32:951][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 118
+[2019.11.11-18.22.32:951][511]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 108
+[2019.11.11-18.22.33:382][526]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 98
+[2019.11.11-18.22.33:619][534]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 88
+[2019.11.11-18.22.35:597][601]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 78
+[2019.11.11-18.22.36:140][619]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.11-18.22.38:071][684]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.11.11-18.22.38:215][689]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 48
+[2019.11.11-18.22.39:664][709]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.11.11-18.22.40:366][720]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 28
+[2019.11.11-18.22.41:525][739]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.11-18.22.41:911][746]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 8
+[2019.11.11-18.22.42:993][765]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.11-18.22.43:461][772]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.11-18.22.46:338][781]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.22.56:632][990]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.22.56:769][993]LogTemp: Repeating last play command: Selected Viewport
+[2019.11.11-18.22.56:782][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.22.56:782][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.11.11-18.22.56:782][993]PIE: New page: PIE session: Cog_Icelvl (Nov 11, 2019, 8:22:56 AM)
+[2019.11.11-18.22.56:782][993]LogPlayLevel: Creating play world package: /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.23.03:351][993]LogPlayLevel: PIE: StaticDuplicateObject took: (6.568717s)
+[2019.11.11-18.23.03:352][993]LogAIModule: Creating AISystem for world Cog_Icelvl
+[2019.11.11-18.23.03:352][993]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2019.11.11-18.23.03:352][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/333/Cog_Icelvl.Cog_Icelvl to /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl (6.569696s)
+[2019.11.11-18.23.03:376][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2019.11.11-18.23.03:389][993]LogInit: XAudio2 using 'Speakers/Headphones (Realtek(R) Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.11.11-18.23.03:493][993]LogInit: FAudioDevice initialized.
+[2019.11.11-18.23.03:501][993]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.11.11-18.23.03:525][993]LogWorld: Bringing World /Game/333/UEDPIE_0_Cog_Icelvl.Cog_Icelvl up for play (max tick rate 0) at 2019.11.11-13.23.03
+[2019.11.11-18.23.03:526][993]LogWorld: Bringing up level for play took: 0.023322
+[2019.11.11-18.23.03:526][993]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2019.11.11-18.23.03:529][993]PIE: Play in editor start time for /Game/333/UEDPIE_0_Cog_Icelvl 5.994
+[2019.11.11-18.23.03:529][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.23.20:025][161]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.23.20:025][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.23.20:025][161]LogWorld: BeginTearingDown for /Game/333/UEDPIE_0_Cog_Icelvl
+[2019.11.11-18.23.20:026][161]LogWorld: UWorld::CleanupWorld for Cog_Icelvl, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.23.20:231][161]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.11.11-18.23.20:231][161]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel' has LevelScriptBlueprint '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl' with GeneratedClass '/Game/333/Cog_Icelvl.Cog_Icelvl_C' with ClassGeneratedBy '/Game/333/Cog_Icelvl.Cog_Icelvl:PersistentLevel.Cog_Icelvl'
+[2019.11.11-18.23.20:267][161]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.11.11-18.23.20:307][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2019.11.11-18.23.20:325][162]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.11.11-18.23.22:184][202]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2019.11.11-18.23.23:342][222]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.11.11-18.23.46:104][ 81]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.23.51:544][361]LogAssetEditorManager: Opening Asset editor for Material /Game/StarterContent/Materials/M_Water_Ocean.M_Water_Ocean
+[2019.11.11-18.23.51:548][361]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.11.11-18.23.51:565][361]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 30
+[2019.11.11-18.23.51:565][361]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 29
+[2019.11.11-18.23.51:647][361]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.11.11-18.23.51:668][361]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2019.11.11-18.23.51:702][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_4, compiling. 
+[2019.11.11-18.23.51:709][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2019.11.11-18.23.51:716][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_18, compiling. 
+[2019.11.11-18.23.51:723][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2019.11.11-18.23.51:730][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2019.11.11-18.23.51:737][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_22, compiling. 
+[2019.11.11-18.23.51:745][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_19, compiling. 
+[2019.11.11-18.23.51:753][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_21, compiling. 
+[2019.11.11-18.23.51:760][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2019.11.11-18.23.51:767][361]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_4, compiling. 
+[2019.11.11-18.23.51:813][361]LogSlate: Took 0.008884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.11.11-18.23.51:908][362]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 70
+[2019.11.11-18.23.51:908][362]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 69
+[2019.11.11-18.23.52:047][365]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 68
+[2019.11.11-18.23.52:074][366]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 67
+[2019.11.11-18.23.52:252][373]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 66
+[2019.11.11-18.23.52:267][374]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 65
+[2019.11.11-18.23.52:444][381]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 64
+[2019.11.11-18.23.52:456][381]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 63
+[2019.11.11-18.23.52:571][386]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 62
+[2019.11.11-18.23.52:643][389]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 61
+[2019.11.11-18.23.52:740][394]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 60
+[2019.11.11-18.23.53:061][410]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 59
+[2019.11.11-18.23.53:201][417]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 58
+[2019.11.11-18.23.53:320][423]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 57
+[2019.11.11-18.23.53:619][438]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 56
+[2019.11.11-18.23.53:745][442]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 55
+[2019.11.11-18.23.53:884][446]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 54
+[2019.11.11-18.23.54:141][458]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 53
+[2019.11.11-18.23.54:277][464]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 52
+[2019.11.11-18.23.54:393][469]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 51
+[2019.11.11-18.23.54:675][483]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 50
+[2019.11.11-18.23.54:808][489]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 49
+[2019.11.11-18.23.54:915][494]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 48
+[2019.11.11-18.23.55:193][507]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 47
+[2019.11.11-18.23.55:302][511]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 46
+[2019.11.11-18.23.55:414][517]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 45
+[2019.11.11-18.23.55:490][520]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.23.55:648][527]LogSlate: Took 0.005814 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.11.11-18.23.55:705][530]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 44
+[2019.11.11-18.23.55:828][536]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 43
+[2019.11.11-18.23.55:956][542]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 42
+[2019.11.11-18.23.56:172][552]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 41
+[2019.11.11-18.23.56:329][559]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 40
+[2019.11.11-18.23.56:414][563]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 39
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Base pass shader: 168 instructions
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Base pass shader with Surface Lightmap: 195 instructions
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 242 instructions
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Texture samplers: 6/16
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(6)
+[2019.11.11-18.23.56:440][564]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.11.11-18.23.56:625][572]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 38
+[2019.11.11-18.23.56:691][575]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 37
+[2019.11.11-18.23.56:856][583]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 36
+[2019.11.11-18.23.56:915][586]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 35
+[2019.11.11-18.23.57:139][596]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 34
+[2019.11.11-18.23.57:206][599]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 33
+[2019.11.11-18.23.57:381][607]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 32
+[2019.11.11-18.23.57:439][610]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 31
+[2019.11.11-18.23.57:664][620]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2019.11.11-18.23.57:733][623]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 29
+[2019.11.11-18.23.57:950][633]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2019.11.11-18.23.57:968][634]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 27
+[2019.11.11-18.23.58:236][646]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 26
+[2019.11.11-18.23.58:262][647]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 25
+[2019.11.11-18.23.58:480][657]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 24
+[2019.11.11-18.23.58:498][658]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 23
+[2019.11.11-18.23.58:790][671]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 22
+[2019.11.11-18.23.58:790][671]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 21
+[2019.11.11-18.23.59:026][682]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 20
+[2019.11.11-18.23.59:028][682]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 19
+[2019.11.11-18.23.59:318][695]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 18
+[2019.11.11-18.23.59:334][696]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 17
+[2019.11.11-18.23.59:552][706]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 16
+[2019.11.11-18.23.59:552][706]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2019.11.11-18.23.59:843][719]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 14
+[2019.11.11-18.23.59:843][719]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2019.11.11-18.24.00:084][730]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 12
+[2019.11.11-18.24.00:111][731]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2019.11.11-18.24.00:390][744]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2019.11.11-18.24.00:390][744]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2019.11.11-18.24.00:615][754]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2019.11.11-18.24.00:633][755]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2019.11.11-18.24.00:899][767]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 6
+[2019.11.11-18.24.00:928][768]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2019.11.11-18.24.01:126][777]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2019.11.11-18.24.01:149][778]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 3
+[2019.11.11-18.24.01:427][791]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2019.11.11-18.24.01:434][791]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2019.11.11-18.24.46:122][ 11]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.25.22:582][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2019.11.11-18.25.22:583][676]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.11.11-18.25.24:094][676]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl_Auto3DC10905E45D087D228119C9DBC64E5E1.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Autosaves/Game/333/Cog_Icelvl_Auto3.umap'
+[2019.11.11-18.25.24:100][676]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/333/Cog_Icelvl' took 1.542
+[2019.11.11-18.25.24:100][676]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.542
+[2019.11.11-18.26.05:451][ 96]LogSlate: Window 'Message' being destroyed
+[2019.11.11-18.26.05:457][ 96]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.11.11-18.26.05:458][ 96]LogSlate: Window 'M_Water_Ocean' being destroyed
+[2019.11.11-18.26.05:491][ 96]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.11.11-18.26.23:734][295]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.11.11-18.26.36:128][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.11.11-18.26.36:157][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2019.11.11-18.26.37:685][472]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl852F030C4651D166FDE2768979E21F6F.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl.umap'
+[2019.11.11-18.26.37:740][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/333/Cog_Icelvl_BuiltData" FILE="../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl_BuiltData.uasset" SILENT=true
+[2019.11.11-18.26.37:758][472]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/CogCollectors/Saved/Cog_Icelvl_BuiltDataA3DA78954FAAB24160B15B829AE07B1B.tmp' to '../../../../../Documents/Unreal Projects/CogCollectors/Content/333/Cog_Icelvl_BuiltData.uasset'
